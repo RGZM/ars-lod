@@ -1,5 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_1832f294-d3ce-466c-ab67-33fb3a6a026d> ns1:depicts "leopard"@en,
-        "panther"@en .
-

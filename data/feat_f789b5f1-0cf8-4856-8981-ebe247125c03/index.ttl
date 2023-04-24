@@ -1,8 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_f789b5f1-0cf8-4856-8981-ebe247125c03> ns1:depicts "angel"@en,
-        "men"@en,
-        "phrygian cap"@en,
-        "short belted tunic"@en,
-        "tunic"@en .
-

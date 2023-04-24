@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_3e5d4fba-52be-4b03-8b64-c8ebf706b544> ns1:depicts "grille-patterns"@en .
-

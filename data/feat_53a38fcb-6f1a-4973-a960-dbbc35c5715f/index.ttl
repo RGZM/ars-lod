@@ -1,9 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_53a38fcb-6f1a-4973-a960-dbbc35c5715f> ns1:depicts "Daniel"@en,
-        "angels"@en,
-        "belted tunic"@en,
-        "lions"@en,
-        "man"@en,
-        "tunic"@en .
-

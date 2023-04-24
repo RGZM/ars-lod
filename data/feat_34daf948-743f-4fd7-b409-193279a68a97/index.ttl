@@ -1,9 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_34daf948-743f-4fd7-b409-193279a68a97> ns1:depicts "Eve"@en,
-        "armlet"@en,
-        "fruit"@en,
-        "necklace"@en,
-        "woman"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_66784001-b1a4-4f33-9e2f-267540b3772a> .
-

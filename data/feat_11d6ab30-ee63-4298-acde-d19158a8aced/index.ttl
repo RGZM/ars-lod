@@ -1,6 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_11d6ab30-ee63-4298-acde-d19158a8aced> ns1:depicts "Chi Rho"@en,
-        "concentric circle"@en,
-        "lozenges"@en .
-

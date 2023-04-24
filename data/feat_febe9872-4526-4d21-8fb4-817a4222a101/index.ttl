@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_febe9872-4526-4d21-8fb4-817a4222a101> ns1:depicts "woman"@en .
-

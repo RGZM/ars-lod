@@ -1,5 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_18967c33-4ef5-4f3a-aa69-4177acd6dc22> ns1:depicts "basket"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_93d7256c-b9d7-4710-ae55-e16902ffe1c8> .
-

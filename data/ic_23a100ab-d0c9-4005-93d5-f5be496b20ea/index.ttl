@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/ic_23a100ab-d0c9-4005-93d5-f5be496b20ea> ns1:representedBy <http://data.archaeology.link/data/ars/pf_f7b36c24-9a27-4b27-8b1f-5f82df341913> .
-

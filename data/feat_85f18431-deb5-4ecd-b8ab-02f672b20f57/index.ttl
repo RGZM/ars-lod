@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_85f18431-deb5-4ecd-b8ab-02f672b20f57> ns1:depicts "fox"@en .
-

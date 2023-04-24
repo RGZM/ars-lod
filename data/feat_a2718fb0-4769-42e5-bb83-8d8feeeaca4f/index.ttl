@@ -1,7 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_a2718fb0-4769-42e5-bb83-8d8feeeaca4f> ns1:depicts "Daniel"@en,
-        "cantharus"@en,
-        "man"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_76dc4282-8dad-4a08-b34c-b767f476aa07> .
-

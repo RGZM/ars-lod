@@ -1,8 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_22560616-ec63-4e2c-844e-475023bc7c57> ns1:depicts "long short-sleeved tunic"@en,
-        "pallium"@en,
-        "tunic"@en,
-        "woman"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_ba373182-af4c-4ef4-9622-226465b5fa6d> .
-

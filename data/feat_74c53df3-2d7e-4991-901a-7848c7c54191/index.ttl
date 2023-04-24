@@ -1,5 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_74c53df3-2d7e-4991-901a-7848c7c54191> ns1:depicts "human-horse hybrid"@en,
-        "mantle"@en .
-

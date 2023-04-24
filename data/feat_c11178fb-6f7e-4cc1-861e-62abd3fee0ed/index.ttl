@@ -1,8 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_c11178fb-6f7e-4cc1-861e-62abd3fee0ed> ns1:depicts "captive"@en,
-        "martyr"@en,
-        "stake"@en,
-        "woman"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_8158fa72-f44c-4820-8ead-e52d8f9e9a40> .
-

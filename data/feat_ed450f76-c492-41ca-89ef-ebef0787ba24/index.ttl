@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_ed450f76-c492-41ca-89ef-ebef0787ba24> ns1:depicts "decoration"@en .
-
