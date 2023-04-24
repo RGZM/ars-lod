@@ -1,1 +1,1 @@
-{"http://archaeology.link/ontology#depicts": ["stake@en", "martyr@en", "woman@en", "captive@en"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_674242d6-631a-47bb-99db-836de368827c"]}
+{"http://archaeology.link/ontology#depicts": ["stake", "martyr", "woman", "captive"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_674242d6-631a-47bb-99db-836de368827c"]}

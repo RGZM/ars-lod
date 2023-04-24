@@ -1,1 +1,1 @@
-{"http://archaeology.link/ontology#depicts": ["Achilles@en", "Hector@en", "horses@en", "chariot@en", "man@en"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_01a35170-687c-4e8d-a664-1928720f74ee"]}
+{"http://archaeology.link/ontology#depicts": ["Achilles", "Hector", "horses", "chariot", "man"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_01a35170-687c-4e8d-a664-1928720f74ee"]}

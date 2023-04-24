@@ -1,1 +1,1 @@
-{"http://archaeology.link/ontology#depicts": ["man@en", "fiery furnace@en"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_ae492614-af85-4e63-9c5e-10add33fc23a", "http://data.archaeology.link/data/ars/ir_7ac55536-3b8e-4d33-95f2-8bbb68353fb7"]}
+{"http://archaeology.link/ontology#depicts": ["man", "fiery furnace"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_ae492614-af85-4e63-9c5e-10add33fc23a", "http://data.archaeology.link/data/ars/ir_7ac55536-3b8e-4d33-95f2-8bbb68353fb7"]}

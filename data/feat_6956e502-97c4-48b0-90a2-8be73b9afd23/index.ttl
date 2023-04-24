@@ -1,4 +1,4 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_6956e502-97c4-48b0-90a2-8be73b9afd23> ns1:depicts "grape@en" .
+<http://data.archaeology.link/data/ars/feat_6956e502-97c4-48b0-90a2-8be73b9afd23> ns1:depicts "grape"@en .
 

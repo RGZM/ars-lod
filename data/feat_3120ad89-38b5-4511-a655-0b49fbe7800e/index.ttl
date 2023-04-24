@@ -1,5 +1,5 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_3120ad89-38b5-4511-a655-0b49fbe7800e> ns1:depicts "lioness@en" ;
+<http://data.archaeology.link/data/ars/feat_3120ad89-38b5-4511-a655-0b49fbe7800e> ns1:depicts "lioness"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_ea029623-e35b-4834-9bd5-8717f1c11243> .
 

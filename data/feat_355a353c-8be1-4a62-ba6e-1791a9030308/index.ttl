@@ -1,7 +1,7 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_355a353c-8be1-4a62-ba6e-1791a9030308> ns1:depicts "hand@en",
-        "stone pine@en",
-        "tree@en" ;
+<http://data.archaeology.link/data/ars/feat_355a353c-8be1-4a62-ba6e-1791a9030308> ns1:depicts "hand"@en,
+        "stone pine"@en,
+        "tree"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_507a4838-5e04-44b8-a80a-14f563a91ba8> .
 

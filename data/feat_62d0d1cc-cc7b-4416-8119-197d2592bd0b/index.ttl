@@ -1,4 +1,4 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_62d0d1cc-cc7b-4416-8119-197d2592bd0b> ns1:depicts "shell@en" .
+<http://data.archaeology.link/data/ars/feat_62d0d1cc-cc7b-4416-8119-197d2592bd0b> ns1:depicts "shell"@en .
 

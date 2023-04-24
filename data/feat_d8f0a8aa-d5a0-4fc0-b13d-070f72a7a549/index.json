@@ -1,1 +1,1 @@
-{"http://archaeology.link/ontology#depicts": ["charioteer@en", "chariot@en", "man@en", "horses@en"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_00c3b889-f470-4243-9c3a-8d8d592e2c82"]}
+{"http://archaeology.link/ontology#depicts": ["charioteer", "chariot", "man", "horses"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_00c3b889-f470-4243-9c3a-8d8d592e2c82"]}

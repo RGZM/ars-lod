@@ -1,7 +1,7 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_8d45f078-fd63-4ca5-a4bc-94c801c58c96> ns1:depicts "cross@en",
-        "man@en",
-        "saint@en" ;
+<http://data.archaeology.link/data/ars/feat_8d45f078-fd63-4ca5-a4bc-94c801c58c96> ns1:depicts "cross"@en,
+        "man"@en,
+        "saint"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
 

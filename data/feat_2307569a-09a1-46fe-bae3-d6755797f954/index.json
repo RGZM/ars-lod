@@ -1,1 +1,1 @@
-{"http://archaeology.link/ontology#depicts": ["man@en", "arena@en", "toga@en"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_8abbbf61-6217-433a-9176-ba08eb819e6d"]}
+{"http://archaeology.link/ontology#depicts": ["man", "arena", "toga"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_8abbbf61-6217-433a-9176-ba08eb819e6d"]}

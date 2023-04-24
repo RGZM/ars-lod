@@ -1,7 +1,7 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_94147feb-178d-44e0-9a2c-ffd0cd23c157> ns1:depicts "altar@en",
-        "children@en",
-        "flame@en" ;
+<http://data.archaeology.link/data/ars/feat_94147feb-178d-44e0-9a2c-ffd0cd23c157> ns1:depicts "altar"@en,
+        "children"@en,
+        "flame"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_51e22c0b-bca9-4520-9ccc-04a2de200271> .
 

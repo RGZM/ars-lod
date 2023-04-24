@@ -1,5 +1,5 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_b079077a-18da-43cc-974b-023d4d4c0843> ns1:depicts "fish@en" ;
+<http://data.archaeology.link/data/ars/feat_b079077a-18da-43cc-974b-023d4d4c0843> ns1:depicts "fish"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_550da086-c5fd-4037-a8f8-d79c2726eda0> .
 

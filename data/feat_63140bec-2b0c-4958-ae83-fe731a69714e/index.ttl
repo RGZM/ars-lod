@@ -1,4 +1,4 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_63140bec-2b0c-4958-ae83-fe731a69714e> ns1:depicts "cantharus@en" .
+<http://data.archaeology.link/data/ars/feat_63140bec-2b0c-4958-ae83-fe731a69714e> ns1:depicts "cantharus"@en .
 

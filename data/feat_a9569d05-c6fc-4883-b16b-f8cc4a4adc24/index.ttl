@@ -1,7 +1,7 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_a9569d05-c6fc-4883-b16b-f8cc4a4adc24> ns1:depicts "concentric circle with dot-fringes@en",
-        "ivy-leaf@en",
-        "square with circle@en" ;
+<http://data.archaeology.link/data/ars/feat_a9569d05-c6fc-4883-b16b-f8cc4a4adc24> ns1:depicts "concentric circle with dot-fringes"@en,
+        "ivy-leaf"@en,
+        "square with circle"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
 

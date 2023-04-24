@@ -1,1 +1,1 @@
-{"http://archaeology.link/ontology#depicts": ["inscription@en", "tabula ansata@en"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_02774a07-295b-4185-95e5-454ef21ba4f7"]}
+{"http://archaeology.link/ontology#depicts": ["inscription", "tabula ansata"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_02774a07-295b-4185-95e5-454ef21ba4f7"]}

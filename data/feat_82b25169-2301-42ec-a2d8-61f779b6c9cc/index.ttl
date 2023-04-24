@@ -1,6 +1,6 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_82b25169-2301-42ec-a2d8-61f779b6c9cc> ns1:depicts "linked lozenges and triangles@en",
-        "medallions@en" ;
+<http://data.archaeology.link/data/ars/feat_82b25169-2301-42ec-a2d8-61f779b6c9cc> ns1:depicts "linked lozenges and triangles"@en,
+        "medallions"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_74039109-64ba-4cab-a9dc-1721ee7d4782> .
 

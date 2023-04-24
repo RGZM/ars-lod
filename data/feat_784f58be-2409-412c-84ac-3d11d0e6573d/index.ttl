@@ -1,6 +1,6 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_784f58be-2409-412c-84ac-3d11d0e6573d> ns1:depicts "man@en" ;
+<http://data.archaeology.link/data/ars/feat_784f58be-2409-412c-84ac-3d11d0e6573d> ns1:depicts "man"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_1fdaad2c-eb8e-4708-a76e-42edf5f0b176>,
         <http://data.archaeology.link/data/ars/ir_7ac55536-3b8e-4d33-95f2-8bbb68353fb7> .
 

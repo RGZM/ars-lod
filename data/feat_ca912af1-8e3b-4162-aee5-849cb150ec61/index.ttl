@@ -1,7 +1,7 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_ca912af1-8e3b-4162-aee5-849cb150ec61> ns1:depicts "human@en",
-        "throne@en" ;
+<http://data.archaeology.link/data/ars/feat_ca912af1-8e3b-4162-aee5-849cb150ec61> ns1:depicts "human"@en,
+        "throne"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_2b699b71-3fba-452a-9407-985570dd4176>,
         <http://data.archaeology.link/data/ars/ir_7d2761d5-d801-48d6-871a-c1ff2e8c1f3e> .
 

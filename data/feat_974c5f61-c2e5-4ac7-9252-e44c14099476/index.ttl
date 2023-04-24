@@ -1,6 +1,6 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_974c5f61-c2e5-4ac7-9252-e44c14099476> ns1:depicts "pallium@en",
-        "pedestral@en",
-        "sandals@en" .
+<http://data.archaeology.link/data/ars/feat_974c5f61-c2e5-4ac7-9252-e44c14099476> ns1:depicts "pallium"@en,
+        "pedestral"@en,
+        "sandals"@en .
 

@@ -1,6 +1,6 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_0732e3af-9fba-49c7-b446-988386b48b91> ns1:depicts "erots@en",
-        "ship@en" ;
+<http://data.archaeology.link/data/ars/feat_0732e3af-9fba-49c7-b446-988386b48b91> ns1:depicts "erots"@en,
+        "ship"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_cbba9a33-caef-4360-860c-31d06c226134> .
 

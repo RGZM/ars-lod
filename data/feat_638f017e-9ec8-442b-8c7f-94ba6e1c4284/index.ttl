@@ -1,9 +1,9 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_638f017e-9ec8-442b-8c7f-94ba6e1c4284> ns1:depicts "Dioscurus@en",
-        "long-sleeved short belted tunic@en",
-        "man@en",
-        "mantle@en",
-        "tunic@en" ;
+<http://data.archaeology.link/data/ars/feat_638f017e-9ec8-442b-8c7f-94ba6e1c4284> ns1:depicts "Dioscurus"@en,
+        "long-sleeved short belted tunic"@en,
+        "man"@en,
+        "mantle"@en,
+        "tunic"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_2927c404-d907-4b27-abb0-958e54db7f06> .
 

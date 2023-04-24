@@ -1,5 +1,5 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_349f29b1-31b5-48a7-a6bc-346bf66eadd0> ns1:depicts "sand@en" ;
+<http://data.archaeology.link/data/ars/feat_349f29b1-31b5-48a7-a6bc-346bf66eadd0> ns1:depicts "sand"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_f6dcf133-fe9a-4ab3-9f77-318eed7264ae> .
 

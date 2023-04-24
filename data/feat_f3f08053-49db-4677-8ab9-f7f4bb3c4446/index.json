@@ -1,1 +1,1 @@
-{"http://archaeology.link/ontology#depicts": ["erot@en", "Ganymede@en"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_8fc39aaf-9844-4caf-8bb0-10f3d11b1296", "http://data.archaeology.link/data/ars/ir_2e8f99b9-b2b0-47a7-bfa2-cfb5ec471b64"]}
+{"http://archaeology.link/ontology#depicts": ["erot", "Ganymede"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_8fc39aaf-9844-4caf-8bb0-10f3d11b1296", "http://data.archaeology.link/data/ars/ir_2e8f99b9-b2b0-47a7-bfa2-cfb5ec471b64"]}

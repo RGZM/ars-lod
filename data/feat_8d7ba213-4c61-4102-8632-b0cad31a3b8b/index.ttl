@@ -1,7 +1,7 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_8d7ba213-4c61-4102-8632-b0cad31a3b8b> ns1:depicts "Chiron@en",
-        "centaur@en" ;
+<http://data.archaeology.link/data/ars/feat_8d7ba213-4c61-4102-8632-b0cad31a3b8b> ns1:depicts "Chiron"@en,
+        "centaur"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_d88d0b2a-7a69-4e0b-9326-5d7744cb58fd>,
         <http://data.archaeology.link/data/ars/ir_f203c9a3-d163-42cc-8a9e-47c779b8c15b> .
 

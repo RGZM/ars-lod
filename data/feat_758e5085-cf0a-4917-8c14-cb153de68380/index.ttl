@@ -1,5 +1,5 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_758e5085-cf0a-4917-8c14-cb153de68380> ns1:depicts "circle@en",
-        "pediment@en" .
+<http://data.archaeology.link/data/ars/feat_758e5085-cf0a-4917-8c14-cb153de68380> ns1:depicts "circle"@en,
+        "pediment"@en .
 

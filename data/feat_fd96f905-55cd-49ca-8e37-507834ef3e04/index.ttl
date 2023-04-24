@@ -1,6 +1,6 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_fd96f905-55cd-49ca-8e37-507834ef3e04> ns1:depicts "chevron@en",
-        "dots@en" ;
+<http://data.archaeology.link/data/ars/feat_fd96f905-55cd-49ca-8e37-507834ef3e04> ns1:depicts "chevron"@en,
+        "dots"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
 

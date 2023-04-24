@@ -1,5 +1,5 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_93a4a553-80c0-4cc4-9599-0e38254b7103> ns1:depicts "stone pine@en" ;
+<http://data.archaeology.link/data/ars/feat_93a4a553-80c0-4cc4-9599-0e38254b7103> ns1:depicts "stone pine"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_e4f425da-397a-41d1-b01d-8750968e1ef9> .
 

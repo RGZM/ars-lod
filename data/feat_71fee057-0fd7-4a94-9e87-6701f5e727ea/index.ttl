@@ -1,4 +1,4 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_71fee057-0fd7-4a94-9e87-6701f5e727ea> ns1:depicts "almond@en" .
+<http://data.archaeology.link/data/ars/feat_71fee057-0fd7-4a94-9e87-6701f5e727ea> ns1:depicts "almond"@en .
 

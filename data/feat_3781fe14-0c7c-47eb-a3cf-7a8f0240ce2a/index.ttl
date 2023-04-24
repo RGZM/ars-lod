@@ -1,5 +1,5 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_3781fe14-0c7c-47eb-a3cf-7a8f0240ce2a> ns1:depicts "concentric circle@en",
-        "palm-branch@en" .
+<http://data.archaeology.link/data/ars/feat_3781fe14-0c7c-47eb-a3cf-7a8f0240ce2a> ns1:depicts "concentric circle"@en,
+        "palm-branch"@en .
 

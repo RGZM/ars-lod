@@ -1,7 +1,7 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_76952ec1-ff72-4da7-bb60-5d1a97a04c06> ns1:depicts "leaf@en",
-        "oak@en" ;
+<http://data.archaeology.link/data/ars/feat_76952ec1-ff72-4da7-bb60-5d1a97a04c06> ns1:depicts "leaf"@en,
+        "oak"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_6db5456e-ed8b-4cfc-911f-863f057dfb57>,
         <http://data.archaeology.link/data/ars/ir_ac6d25d9-4901-4657-82e7-082a5886e6b0> .
 

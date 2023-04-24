@@ -1,4 +1,4 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_d0d4b10f-95d1-4276-81d1-93c4757228d9> ns1:depicts "tree@en" .
+<http://data.archaeology.link/data/ars/feat_d0d4b10f-95d1-4276-81d1-93c4757228d9> ns1:depicts "tree"@en .
 

@@ -1,4 +1,4 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_66e11f81-c609-4c16-8267-9ee3285fe12e> ns1:depicts "hand@en" .
+<http://data.archaeology.link/data/ars/feat_66e11f81-c609-4c16-8267-9ee3285fe12e> ns1:depicts "hand"@en .
 

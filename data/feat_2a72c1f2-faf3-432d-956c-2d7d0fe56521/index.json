@@ -1,1 +1,1 @@
-{"http://archaeology.link/ontology#depicts": ["erots@en", "ship@en"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e", "http://data.archaeology.link/data/ars/ir_8e4bd1fd-66b1-456f-9269-c5de0e752770"]}
+{"http://archaeology.link/ontology#depicts": ["erots", "ship"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_4b76ce68-cd21-40b5-8562-6a3e1ef7d80e", "http://data.archaeology.link/data/ars/ir_8e4bd1fd-66b1-456f-9269-c5de0e752770"]}

@@ -1,1 +1,1 @@
-{"http://archaeology.link/ontology#depicts": ["captive@en", "tree house@en", "man@en", "bird@en"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_db76adaf-12f5-48e2-843f-b3f358820b24"]}
+{"http://archaeology.link/ontology#depicts": ["captive", "tree house", "man", "bird"], "http://archaeology.link/ontology#depictsReference": ["http://data.archaeology.link/data/ars/ir_db76adaf-12f5-48e2-843f-b3f358820b24"]}

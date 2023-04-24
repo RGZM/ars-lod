@@ -1,5 +1,5 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_4ad9b764-d949-4889-8402-a441ecc03be5> ns1:depicts "concentric circle@en",
-        "dots@en" .
+<http://data.archaeology.link/data/ars/feat_4ad9b764-d949-4889-8402-a441ecc03be5> ns1:depicts "concentric circle"@en,
+        "dots"@en .
 

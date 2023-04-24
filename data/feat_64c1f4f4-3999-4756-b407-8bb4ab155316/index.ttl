@@ -1,8 +1,8 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_64c1f4f4-3999-4756-b407-8bb4ab155316> ns1:depicts "Dioscurus@en",
-        "man@en",
-        "phrygian cap@en",
-        "spear@en" ;
+<http://data.archaeology.link/data/ars/feat_64c1f4f4-3999-4756-b407-8bb4ab155316> ns1:depicts "Dioscurus"@en,
+        "man"@en,
+        "phrygian cap"@en,
+        "spear"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_fb3f1ad4-dc8f-4a1c-ac8d-758566dce6e8> .
 

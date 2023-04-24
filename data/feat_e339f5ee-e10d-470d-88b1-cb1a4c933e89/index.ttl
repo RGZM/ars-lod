@@ -1,4 +1,4 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_e339f5ee-e10d-470d-88b1-cb1a4c933e89> ns1:depicts "fish@en" .
+<http://data.archaeology.link/data/ars/feat_e339f5ee-e10d-470d-88b1-cb1a4c933e89> ns1:depicts "fish"@en .
 

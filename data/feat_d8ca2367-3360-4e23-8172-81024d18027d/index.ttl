@@ -1,4 +1,4 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_d8ca2367-3360-4e23-8172-81024d18027d> ns1:depicts "curtain@en" .
+<http://data.archaeology.link/data/ars/feat_d8ca2367-3360-4e23-8172-81024d18027d> ns1:depicts "curtain"@en .
 

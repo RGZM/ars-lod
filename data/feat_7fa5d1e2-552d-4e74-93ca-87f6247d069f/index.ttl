@@ -1,5 +1,5 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_7fa5d1e2-552d-4e74-93ca-87f6247d069f> ns1:depicts "bird@en",
-        "medallion@en" .
+<http://data.archaeology.link/data/ars/feat_7fa5d1e2-552d-4e74-93ca-87f6247d069f> ns1:depicts "bird"@en,
+        "medallion"@en .
 

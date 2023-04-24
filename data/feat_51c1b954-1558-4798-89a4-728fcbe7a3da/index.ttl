@@ -1,8 +1,8 @@
 @prefix ns1: <http://archaeology.link/ontology#> .
 
-<http://data.archaeology.link/data/ars/feat_51c1b954-1558-4798-89a4-728fcbe7a3da> ns1:depicts "Pegasus@en",
-        "horse@en",
-        "palm@en",
-        "tree@en" ;
+<http://data.archaeology.link/data/ars/feat_51c1b954-1558-4798-89a4-728fcbe7a3da> ns1:depicts "Pegasus"@en,
+        "horse"@en,
+        "palm"@en,
+        "tree"@en ;
     ns1:depictsReference <http://data.archaeology.link/data/ars/ir_0413c05a-a16f-4f61-811a-51120070e03b> .
 
