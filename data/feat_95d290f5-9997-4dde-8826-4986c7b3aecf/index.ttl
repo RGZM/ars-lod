@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_95d290f5-9997-4dde-8826-4986c7b3aecf> ns1:depicts "aedicula"@en .
+

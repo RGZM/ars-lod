@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_4ffeeb2e-b7af-44dc-8024-164e6812c79e> ns1:depicts "stone pine"@en,
+        "tree"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_000168a0-04d1-4ddd-8dea-4611bd8a0a07> .
+

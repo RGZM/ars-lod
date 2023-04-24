@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_f7bdaf3f-ce54-49ba-8898-5f9dd4f49604> ns1:depicts "swastika with cable-pattern"@en .
+

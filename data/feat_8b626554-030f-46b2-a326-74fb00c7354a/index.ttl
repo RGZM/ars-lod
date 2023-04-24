@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_8b626554-030f-46b2-a326-74fb00c7354a> ns1:depicts "lion"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_3f855e89-b843-4a8e-a7dd-94738b12c05a> .
+

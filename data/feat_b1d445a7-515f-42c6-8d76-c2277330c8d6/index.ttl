@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_b1d445a7-515f-42c6-8d76-c2277330c8d6> ns1:depicts "tabula ansata"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_6d8a3d1b-f6b1-4209-be69-89ecc1d2605f> .
+
