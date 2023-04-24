@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_db75be55-2f0f-4f67-abee-181f27aa43eb> ns1:depicts "Chi Rho@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
+

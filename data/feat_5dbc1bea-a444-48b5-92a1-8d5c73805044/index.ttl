@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_5dbc1bea-a444-48b5-92a1-8d5c73805044> ns1:depicts "chevron@en",
+        "concentric circle@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
+

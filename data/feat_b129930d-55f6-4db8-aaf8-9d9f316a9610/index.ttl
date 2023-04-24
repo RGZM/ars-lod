@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_b129930d-55f6-4db8-aaf8-9d9f316a9610> ns1:depicts "dots@en",
+        "triangle@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
+

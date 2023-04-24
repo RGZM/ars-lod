@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_1f3e2da2-4081-4049-9184-4a7b32c1dc5f> ns1:depicts "soldier@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
+

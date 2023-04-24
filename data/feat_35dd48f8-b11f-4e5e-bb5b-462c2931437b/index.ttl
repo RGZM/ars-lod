@@ -1,0 +1,7 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_35dd48f8-b11f-4e5e-bb5b-462c2931437b> ns1:depicts "bust@en",
+        "medallion@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_a6e138b2-dccb-41bc-a924-71e606a6f2d0>,
+        <http://data.archaeology.link/data/ars/ir_aa844ed0-0c4a-4ba5-82dd-a71886ff3f3b> .
+

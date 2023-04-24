@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_cfcc9c4e-1122-4626-8240-46fad8fe1d12> ns1:depicts "animal@en" .
+

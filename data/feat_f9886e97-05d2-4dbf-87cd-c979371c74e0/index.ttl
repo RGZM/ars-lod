@@ -1,0 +1,10 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_f9886e97-05d2-4dbf-87cd-c979371c74e0> ns1:depicts "aedicula@en",
+        "altar@en",
+        "belted tunic@en",
+        "curtain@en",
+        "man@en",
+        "mantle@en",
+        "tunic@en" .
+

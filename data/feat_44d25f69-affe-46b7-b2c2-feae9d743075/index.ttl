@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_44d25f69-affe-46b7-b2c2-feae9d743075> ns1:depicts "branch@en",
+        "lionsskin@en" .
+

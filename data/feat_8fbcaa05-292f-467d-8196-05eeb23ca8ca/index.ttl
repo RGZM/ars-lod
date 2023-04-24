@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_8fbcaa05-292f-467d-8196-05eeb23ca8ca> ns1:depicts "mantle@en",
+        "soldier@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_31803c57-9e7a-4bd8-b600-8ae3c43c3505> .
+

@@ -1,0 +1,10 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7> ns1:hasImage <https://zenodo.org/record/5645180/files/126c10ea-d557-4462-96fe-100faf9f427e.jpg>,
+        <https://zenodo.org/record/5645180/files/28f18dab-7c13-4cac-b473-4a7c9cecbfb7.jpg>,
+        <https://zenodo.org/record/5645180/files/5531692d-df51-407f-abf5-3d206d2be3a2.jpg>,
+        <https://zenodo.org/record/5645180/files/7cdf05c9-126f-4e44-93c1-446bbd1970e9.jpg>,
+        <https://zenodo.org/record/5645180/files/9635cd06-a54d-4fcd-8386-548279cdbae2.jpg> ;
+    dcterms:bibliographicCitation "Hayes (1972), p.83" .
+

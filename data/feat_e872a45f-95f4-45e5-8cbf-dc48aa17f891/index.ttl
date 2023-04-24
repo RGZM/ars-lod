@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_e872a45f-95f4-45e5-8cbf-dc48aa17f891> ns1:depicts "volutes@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
+

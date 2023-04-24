@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_d443e21e-e7f7-4148-b20c-7f9b20b64297> ns1:depicts "Cantharus@en",
+        "man@en" .
+

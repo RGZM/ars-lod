@@ -1,0 +1,7 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_fc0005ce-6180-4d76-992f-17f9d5fa1580> ns1:depicts "Achilles@en",
+        "boy@en",
+        "palm branch@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_079664cc-61d1-4579-874a-cd342bac333c> .
+

@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_7611a39d-15fc-4756-8e8d-4ee12ac7cbdc> ns1:depicts "trefoil pattern@en" .
+

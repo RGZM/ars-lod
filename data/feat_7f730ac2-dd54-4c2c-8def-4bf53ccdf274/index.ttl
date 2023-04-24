@@ -1,0 +1,10 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_7f730ac2-dd54-4c2c-8def-4bf53ccdf274> ns1:depicts "Bacchus@en",
+        "chariot@en",
+        "man@en",
+        "mantle@en",
+        "satyr@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_c0fda02c-ec42-486c-9c9b-17b6b755389a>,
+        <http://data.archaeology.link/data/ars/ir_c3128fcd-4c60-4612-8052-62fa22ade8f8> .
+

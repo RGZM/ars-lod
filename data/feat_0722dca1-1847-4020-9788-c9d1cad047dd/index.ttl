@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_0722dca1-1847-4020-9788-c9d1cad047dd> ns1:depicts "Triton@en" .
+

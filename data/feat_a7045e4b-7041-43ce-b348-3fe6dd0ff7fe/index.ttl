@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_a7045e4b-7041-43ce-b348-3fe6dd0ff7fe> ns1:depicts "rooster@en" .
+

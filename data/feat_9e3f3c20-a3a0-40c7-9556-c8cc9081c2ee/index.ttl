@@ -1,0 +1,7 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_9e3f3c20-a3a0-40c7-9556-c8cc9081c2ee> ns1:depicts "Neptun@en",
+        "man@en",
+        "ship@en",
+        "trident@en" .
+

@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_42684889-3e1b-4d99-9ed3-f70feffdbb02> ns1:depicts "sea monster@en" .
+

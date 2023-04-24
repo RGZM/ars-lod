@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_f67035c1-0bb5-4c9f-a930-fb8874b32232> ns1:depicts "lozenges@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
+

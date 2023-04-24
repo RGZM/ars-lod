@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_71b02347-b3fb-42f8-aa67-9acb17517cdc> ns1:depicts "Silenus@en",
+        "pedestal@en" .
+

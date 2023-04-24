@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_159b5d08-6df9-4d7c-92b0-f6c34209ae10> ns1:depicts "helmet@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_d2d88ce6-86c6-4c4b-9cc6-c866bbc82de5> .
+

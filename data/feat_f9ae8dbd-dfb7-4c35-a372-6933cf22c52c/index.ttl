@@ -1,0 +1,8 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_f9ae8dbd-dfb7-4c35-a372-6933cf22c52c> ns1:depicts "human@en",
+        "orant@en",
+        "short tunic@en",
+        "tunic@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_c730506e-a365-41d1-8433-be7f3397ce8b> .
+

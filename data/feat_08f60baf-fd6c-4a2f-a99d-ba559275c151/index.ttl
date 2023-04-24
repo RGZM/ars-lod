@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_08f60baf-fd6c-4a2f-a99d-ba559275c151> ns1:depicts "wreath@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_8cf84d41-046e-49ae-920a-96f7baa8c020> .
+

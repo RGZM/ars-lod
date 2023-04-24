@@ -1,0 +1,8 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_331464bc-7abc-46a5-b4e1-adb5f71c6b82> ns1:depicts "Lazarus@en",
+        "human@en",
+        "pediment@en",
+        "tomb@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_913c6a31-c509-413e-83cf-5892f1c7e38f> .
+

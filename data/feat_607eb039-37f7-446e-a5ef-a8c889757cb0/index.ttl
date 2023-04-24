@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_607eb039-37f7-446e-a5ef-a8c889757cb0> ns1:depicts "hunter@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_09c0d565-8210-470c-99c4-1a4a215aaf68> .
+

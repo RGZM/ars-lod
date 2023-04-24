@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_d6db094c-dec9-446f-99f5-4b95096ecb5d> ns1:depicts "kannweg@en" .
+

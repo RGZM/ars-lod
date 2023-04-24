@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_fa6899f2-f7fa-4ab8-858a-35bb3e585ab6> ns1:depicts "erots@en",
+        "ship@en" .
+

@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_118a3621-e9ff-4693-968b-ea7a4abae66b> ns1:depicts "camel@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_7284feb7-5ba2-4324-8651-7110efe430fd> .
+

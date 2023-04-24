@@ -1,0 +1,9 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_ec0caf27-baa2-4218-bd15-dc42231d8437> ns1:depicts "Africa@en",
+        "headgear@en",
+        "long tunic@en",
+        "tunic@en",
+        "woman@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_c5b820d9-d375-4532-a54e-c05385124e3d> .
+

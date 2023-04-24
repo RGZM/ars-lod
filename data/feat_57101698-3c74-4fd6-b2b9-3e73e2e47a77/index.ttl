@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_57101698-3c74-4fd6-b2b9-3e73e2e47a77> ns1:depicts "Nike@en",
+        "bust@en",
+        "medallion@en" .
+

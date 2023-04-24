@@ -1,0 +1,8 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_2fd78b83-8d1e-4556-aae7-7b69ca13e007> ns1:depicts "bird@en",
+        "erots@en",
+        "ship@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_10a31f07-2ddf-430d-b274-04babea6d5e4>,
+        <http://data.archaeology.link/data/ars/ir_f1447d83-ce0e-4f67-be00-eed3a18f5110> .
+

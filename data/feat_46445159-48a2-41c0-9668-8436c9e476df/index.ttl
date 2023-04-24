@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_46445159-48a2-41c0-9668-8436c9e476df> ns1:depicts "fiery furnace@en",
+        "man@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_ae492614-af85-4e63-9c5e-10add33fc23a> .
+

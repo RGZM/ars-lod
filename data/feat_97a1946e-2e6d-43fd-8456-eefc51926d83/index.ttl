@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_97a1946e-2e6d-43fd-8456-eefc51926d83> ns1:depicts "Jonah@en",
+        "man@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_d7595703-1c2d-4f56-9bb9-04991f9583ef> .
+

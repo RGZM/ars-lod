@@ -1,0 +1,8 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_bb6f9c4e-ea84-4366-b399-0217d2b28962> ns1:depicts "long tunic@en",
+        "tunic@en",
+        "woman with the issue of blood@en",
+        "woman@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_3f251cf5-5def-40c1-b38a-d660dcdc8797> .
+

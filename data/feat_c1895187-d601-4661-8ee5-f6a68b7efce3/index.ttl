@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_c1895187-d601-4661-8ee5-f6a68b7efce3> ns1:depicts "inscription@en" .
+

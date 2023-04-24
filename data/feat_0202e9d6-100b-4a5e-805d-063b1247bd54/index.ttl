@@ -1,0 +1,7 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_0202e9d6-100b-4a5e-805d-063b1247bd54> ns1:depicts "Jonah@en",
+        "gourd-vine@en",
+        "man@en" ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_1a55434a-125f-4a26-b93b-f4989553682d> .
+
