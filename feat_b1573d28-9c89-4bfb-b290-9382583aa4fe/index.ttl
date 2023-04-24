@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_b1573d28-9c89-4bfb-b290-9382583aa4fe> ns1:depicts "blossom"@en .
+

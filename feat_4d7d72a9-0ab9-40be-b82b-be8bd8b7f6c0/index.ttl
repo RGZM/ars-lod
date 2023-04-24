@@ -1,0 +1,11 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_4d7d72a9-0ab9-40be-b82b-be8bd8b7f6c0> ns1:depicts "Victoria"@en,
+        "breast-band"@en,
+        "helmet"@en,
+        "palm branch"@en,
+        "peplos"@en,
+        "woman"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_3f4bfb7e-de57-44f5-ace2-aba988406428>,
+        <http://data.archaeology.link/data/ars/ir_dfb5789e-0979-4288-9f30-09f30479c6f6> .
+

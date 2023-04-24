@@ -1,0 +1,6 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e> ns1:hasImage <https://zenodo.org/record/5645180/files/620cdbe4-f845-47d6-a24f-542923af9b5b.jpg> ;
+    dcterms:bibliographicCitation "Hayes (1972), p. 195-197" .
+

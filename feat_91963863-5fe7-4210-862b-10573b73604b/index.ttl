@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_91963863-5fe7-4210-862b-10573b73604b> ns1:depicts "strokes"@en .
+

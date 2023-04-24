@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_186b7218-618e-454d-8e8d-0941a6e6c4eb> ns1:depicts "Chi-Rho"@en,
+        "rosette"@en .
+

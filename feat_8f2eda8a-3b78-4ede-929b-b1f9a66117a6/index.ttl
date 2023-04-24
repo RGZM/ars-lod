@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_8f2eda8a-3b78-4ede-929b-b1f9a66117a6> ns1:depicts "basket of fruit"@en,
+        "medallion"@en .
+

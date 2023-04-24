@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_a50aaea2-f865-4cad-85cc-261b82710fe0> ns1:depicts "dolphin"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_2e7eef2f-c56a-455c-877a-724ae7194b11> .
+

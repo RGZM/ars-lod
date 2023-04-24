@@ -1,0 +1,7 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_6ae5820d-6d7b-4f80-a6e7-4e2f1e257f29> ns1:depicts "Solomon"@en,
+        "man"@en,
+        "throne"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_5bf8e4ec-a167-40d6-8f6e-73968eed16bc> .
+

@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_ce1d8dfb-4fa6-4917-957f-0c929381dba2> ns1:depicts "ornament"@en .
+

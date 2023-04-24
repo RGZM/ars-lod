@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_1ec3cf1f-5412-4150-9ac1-bfd79bf341a4> ns1:depicts "antelope"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_25f67cfc-2709-4a47-9e31-1a3fa7e0fbd0> .
+
