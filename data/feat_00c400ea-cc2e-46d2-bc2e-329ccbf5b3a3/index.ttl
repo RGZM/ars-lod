@@ -1,8 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_00c400ea-cc2e-46d2-bc2e-329ccbf5b3a3> ns1:depicts "boots"@en,
-        "man"@en,
-        "mantle"@en,
-        "short belted tunic"@en,
-        "tunic"@en .
-

@@ -1,6 +1,0 @@
-@prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8> ns1:hasImage <https://zenodo.org/record/5645180/files/27ce2883-5029-43b5-bc17-f51d236311f3.jpg> ;
-    dcterms:bibliographicCitation "Atlante (1981), p. 194" .
-

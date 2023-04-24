@@ -1,6 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_6656954e-c4bf-43e1-9184-cfc37bb98dd9> ns1:depicts "grille-patterns"@en,
-        "square with circle"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
-

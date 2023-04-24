@@ -1,6 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_14716ac8-7af2-48f6-955b-82459e4b5ac1> ns1:depicts "erots"@en,
-        "vine"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
-

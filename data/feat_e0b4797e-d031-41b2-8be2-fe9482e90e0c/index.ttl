@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_e0b4797e-d031-41b2-8be2-fe9482e90e0c> ns1:depicts "ram"@en .
-

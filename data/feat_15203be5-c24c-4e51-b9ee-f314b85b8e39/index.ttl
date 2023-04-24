@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_15203be5-c24c-4e51-b9ee-f314b85b8e39> ns1:depicts "arch"@en .
-

@@ -1,5 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_8b838f54-a0d5-4c18-b5cd-2326d763079c> ns1:depicts "lozenges"@en,
-        "medallion"@en .
-
