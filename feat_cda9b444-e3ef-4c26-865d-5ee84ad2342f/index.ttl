@@ -1,9 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_cda9b444-e3ef-4c26-865d-5ee84ad2342f> ns1:depicts "Palliatus"@en,
-        "long tunic"@en,
-        "man"@en,
-        "pallium"@en,
-        "tunic"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_c878660a-1875-4492-a1a7-032a8b775789> .
-

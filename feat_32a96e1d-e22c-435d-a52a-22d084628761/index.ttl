@@ -1,5 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_32a96e1d-e22c-435d-a52a-22d084628761> ns1:depicts "venator"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_354ad698-1d48-446d-ab94-3d3b0ffc4eed> .
-

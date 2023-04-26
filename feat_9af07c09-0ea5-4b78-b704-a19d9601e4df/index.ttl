@@ -1,6 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_9af07c09-0ea5-4b78-b704-a19d9601e4df> ns1:depicts "chevron"@en,
-        "ivy-leaf"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
-

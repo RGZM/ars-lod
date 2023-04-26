@@ -1,1 +1,0 @@
-var proprelations={"http://archaeology.link/ontology#hasImage": {"from": [], "to": []}, "http://archaeology.link/ontology#depicts": {"from": [], "to": []}, "http://archaeology.link/ontology#depictsReference": {"from": [], "to": []}}

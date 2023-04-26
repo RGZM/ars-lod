@@ -1,7 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_57f3fdf7-cc0b-48b0-b511-504913d7353c> ns1:depicts "circle line"@en,
-        "concentric circle"@en,
-        "dots"@en,
-        "medallion"@en .
-

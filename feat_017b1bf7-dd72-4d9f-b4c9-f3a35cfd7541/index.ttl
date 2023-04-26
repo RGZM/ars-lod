@@ -1,6 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_017b1bf7-dd72-4d9f-b4c9-f3a35cfd7541> ns1:depicts "chevron"@en,
-        "leaf-spray"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
-

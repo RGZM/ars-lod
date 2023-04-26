@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_9e4c9681-37ad-45c1-99ef-f6d68eff9c30> ns1:depicts "hare"@en .
-

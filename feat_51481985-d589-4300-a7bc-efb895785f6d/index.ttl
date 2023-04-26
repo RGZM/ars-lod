@@ -1,7 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_51481985-d589-4300-a7bc-efb895785f6d> ns1:depicts "Bacchus"@en,
-        "Pan"@en,
-        "man"@en,
-        "satyr"@en .
-

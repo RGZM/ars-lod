@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_14c9e46e-6be8-458b-b718-609ab105a4a7> ns1:depicts "peacock"@en .
-

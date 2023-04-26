@@ -1,7 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_8cfbfb35-64e0-4bc7-bfb9-eea571aee86b> ns1:depicts "arena"@en,
-        "man"@en,
-        "toga"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_8abbbf61-6217-433a-9176-ba08eb819e6d> .
-

@@ -1,5 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_0e9b5da0-dda3-453c-808a-2f7eb0a3fc53> ns1:depicts "human head"@en,
-        "leaf-spray"@en .
-

@@ -1,5 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_43e9357c-1391-47c1-9040-59ba93957a47> ns1:depicts "Lazarus"@en,
-        "man"@en .
-
