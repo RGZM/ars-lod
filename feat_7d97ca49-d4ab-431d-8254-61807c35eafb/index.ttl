@@ -1,0 +1,7 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_7d97ca49-d4ab-431d-8254-61807c35eafb> ns1:depicts "erots"@en,
+        "ship"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_26299ebd-61c5-4093-ad58-d58bf964e409>,
+        <http://data.archaeology.link/data/ars/ir_64268e75-a746-4e0b-aabd-09ceaac1752f> .
+

@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_ed7c55fb-1212-4a78-b7d0-8e22b78e8232> ns1:depicts "soldier"@en .
+

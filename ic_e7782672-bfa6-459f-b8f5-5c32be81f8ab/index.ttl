@@ -1,0 +1,27 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://academic-meta-tool.xyz/vocab#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_e7782672-bfa6-459f-b8f5-5c32be81f8ab> a ns2:InformationCarrier ;
+    rdfs:label "rectangular dish with animal hunt"@en ;
+    ns3:instanceOf ns2:InformationCarrier ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031543> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031544> ;
+    ns2:hasConditionString "fragmented"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/e7782672-bfa6-459f-b8f5-5c32be81f8ab.jpg> ;
+    ns2:hasType ns2:ARS_Object ;
+    ns2:inventoryNumber "O.41406 (RGZM)" ;
+    ns2:madeByString "mould made"@en ;
+    ns2:madeOfString "clay"@en ;
+    ns2:number 1 ;
+    ns2:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000019> ;
+    ns2:representedByString "rectangular dish"@en ;
+    ns2:timeinterval "Late Antiquity / 350/355 - 450/475 AD" ;
+    dc:identifier "e7782672-bfa6-459f-b8f5-5c32be81f8ab" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_e7782672-bfa6-459f-b8f5-5c32be81f8ab> .
+

@@ -1,0 +1,10 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_d37288f5-294c-4d72-a3d7-4385f268d36c> ns1:depicts "Good Shepherd"@en,
+        "man"@en,
+        "phrygian cap"@en,
+        "ram"@en,
+        "short belted tunic"@en,
+        "tunic"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_127da17d-a75b-4593-8537-877ab5bda870> .
+

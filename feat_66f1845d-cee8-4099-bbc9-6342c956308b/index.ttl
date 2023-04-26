@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_66f1845d-cee8-4099-bbc9-6342c956308b> ns1:depicts "circle"@en,
+        "cross-monogram"@en,
+        "dots"@en .
+

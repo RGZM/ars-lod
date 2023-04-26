@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_92f309ad-924a-4486-9071-78a2b834f26a> ns1:depicts "bracelet"@en,
+        "nymph"@en,
+        "woman"@en .
+

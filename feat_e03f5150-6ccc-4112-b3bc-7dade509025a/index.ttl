@@ -1,0 +1,8 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_e03f5150-6ccc-4112-b3bc-7dade509025a> ns1:depicts "Palliatus"@en,
+        "human"@en,
+        "pallium"@en,
+        "tunic"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_c878660a-1875-4492-a1a7-032a8b775789> .
+

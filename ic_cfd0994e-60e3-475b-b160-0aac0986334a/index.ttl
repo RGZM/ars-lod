@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://academic-meta-tool.xyz/vocab#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_cfd0994e-60e3-475b-b160-0aac0986334a> a ns1:InformationCarrier ;
+    rdfs:label "plate with Christogram and medallions"@en ;
+    ns3:instanceOf ns1:InformationCarrier ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031581> ;
+    ns1:arachneModelID <http://arachne.dainst.org/entity/7031582> ;
+    ns1:hasConditionString "complete"@en ;
+    ns1:hasImage <https://zenodo.org/record/5645180/files/cfd0994e-60e3-475b-b160-0aac0986334a.jpg> ;
+    ns1:hasType ns1:ARS_Object ;
+    ns1:inventoryNumber "O.41342 (RGZM)" ;
+    ns1:madeByString "potter wheel"@en ;
+    ns1:madeOfString "clay"@en ;
+    ns1:number 1 ;
+    ns1:representedByString "plate"@en ;
+    dc:identifier "cfd0994e-60e3-475b-b160-0aac0986334a" ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_cfd0994e-60e3-475b-b160-0aac0986334a> .
+

@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_a1797b80-40f8-4cb1-a42e-d948c8a6a97e> ns1:depicts "grapevine"@en .
+

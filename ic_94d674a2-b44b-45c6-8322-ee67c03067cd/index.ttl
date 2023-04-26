@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://academic-meta-tool.xyz/vocab#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_94d674a2-b44b-45c6-8322-ee67c03067cd> a ns1:InformationCarrier ;
+    rdfs:label "mould lamp ornament with leaves"@en ;
+    ns3:instanceOf ns1:InformationCarrier ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031659> ;
+    ns1:arachneModelID <http://arachne.dainst.org/entity/7031660> ;
+    ns1:hasConditionString "complete"@en ;
+    ns1:hasImage <https://zenodo.org/record/5645180/files/94d674a2-b44b-45c6-8322-ee67c03067cd.jpg> ;
+    ns1:hasType ns1:Manufacturing_Object ;
+    ns1:inventoryNumber "O.40577 (RGZM)" ;
+    ns1:madeByString "nan"@en ;
+    ns1:madeOfString "plaster"@en ;
+    ns1:number 1 ;
+    ns1:representedByString "mould"@en ;
+    dc:identifier "94d674a2-b44b-45c6-8322-ee67c03067cd" ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_94d674a2-b44b-45c6-8322-ee67c03067cd> .
+

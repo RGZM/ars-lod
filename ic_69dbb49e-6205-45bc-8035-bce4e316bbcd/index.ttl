@@ -1,0 +1,27 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://academic-meta-tool.xyz/vocab#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_69dbb49e-6205-45bc-8035-bce4e316bbcd> a ns2:InformationCarrier ;
+    rdfs:label "plate with Hercules cycle"@en ;
+    ns3:instanceOf ns2:InformationCarrier ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031229> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031230> ;
+    ns2:hasConditionString "fragmented"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/69dbb49e-6205-45bc-8035-bce4e316bbcd.jpg> ;
+    ns2:hasType ns2:ARS_Object ;
+    ns2:inventoryNumber "O.40855 (RGZM)" ;
+    ns2:madeByString "potter wheel"@en ;
+    ns2:madeOfString "clay"@en ;
+    ns2:number 1 ;
+    ns2:representedBy <http://data.archaeology.link/data/ars/pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000> ;
+    ns2:representedByString "plate"@en ;
+    ns2:timeinterval "Late Antiquity / 260-320 or mid-late 4. century AD" ;
+    dc:identifier "69dbb49e-6205-45bc-8035-bce4e316bbcd" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_69dbb49e-6205-45bc-8035-bce4e316bbcd> .
+

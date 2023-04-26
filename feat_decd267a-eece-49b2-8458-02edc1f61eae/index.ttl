@@ -1,0 +1,7 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_decd267a-eece-49b2-8458-02edc1f61eae> ns1:depicts "hunter"@en,
+        "long-sleeved short belted tunic"@en,
+        "tunic"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_41982ed6-8ddb-4701-bd2f-e2474b708cab> .
+

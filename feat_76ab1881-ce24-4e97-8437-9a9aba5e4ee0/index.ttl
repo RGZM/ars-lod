@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_76ab1881-ce24-4e97-8437-9a9aba5e4ee0> ns1:depicts "concentric circle"@en,
+        "trefoil pattern"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
+

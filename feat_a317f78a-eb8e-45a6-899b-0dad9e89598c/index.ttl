@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_a317f78a-eb8e-45a6-899b-0dad9e89598c> ns1:depicts "triangle"@en .
+

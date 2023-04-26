@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_513b6020-9493-4e28-880e-d8dd22d4e7d0> a ns2:InformationCarrier ;
+    rdfs:label "stamp ornaments"@en ;
+    ns1:instanceOf ns2:InformationCarrier ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031681> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031682> ;
+    ns2:hasConditionString "fragmented"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/513b6020-9493-4e28-880e-d8dd22d4e7d0.jpg> ;
+    ns2:hasType ns2:Manufacturing_Object ;
+    ns2:inventoryNumber "O.41390 (RGZM)" ;
+    ns2:madeByString "nan"@en ;
+    ns2:madeOfString "clay"@en ;
+    ns2:number 1 ;
+    ns2:representedByString "stamp "@en ;
+    dc:identifier "513b6020-9493-4e28-880e-d8dd22d4e7d0" ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_513b6020-9493-4e28-880e-d8dd22d4e7d0> .
+

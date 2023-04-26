@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_c089ce5b-4a08-4f30-b071-d927fe0592ae> ns1:depicts "erot"@en .
+

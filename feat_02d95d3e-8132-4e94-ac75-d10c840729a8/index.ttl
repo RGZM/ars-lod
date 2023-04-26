@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_02d95d3e-8132-4e94-ac75-d10c840729a8> ns1:depicts "bear"@en,
+        "martyr"@en,
+        "woman"@en .
+
