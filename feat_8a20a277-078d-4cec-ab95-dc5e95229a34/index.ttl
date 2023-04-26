@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_8a20a277-078d-4cec-ab95-dc5e95229a34> ns1:depicts "petal"@en .
+

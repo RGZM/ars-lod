@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/ir_49d5a93d-3910-41a0-bace-bc6813f7229b> ns1:hasImage <https://zenodo.org/record/5645237/files/1a86a95e-d7ed-41e3-9946-6ff6af239d46.png> .
+

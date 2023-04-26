@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_1b71ca33-7166-46d1-8cc4-28a93ef24045> ns1:depicts "chevron"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
+

@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_21a5dc85-33c0-40fa-8971-b5280018c627> ns1:depicts "amphora"@en,
+        "medallion"@en .
+

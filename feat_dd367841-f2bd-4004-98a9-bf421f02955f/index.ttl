@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_dd367841-f2bd-4004-98a9-bf421f02955f> ns1:depicts "almond"@en,
+        "bird"@en,
+        "medallion"@en .
+

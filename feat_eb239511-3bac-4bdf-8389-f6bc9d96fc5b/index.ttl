@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_eb239511-3bac-4bdf-8389-f6bc9d96fc5b> ns1:depicts "Nereid"@en,
+        "woman"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_fa848618-21b9-407a-a6da-dde73d9762c2> .
+

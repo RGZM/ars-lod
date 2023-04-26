@@ -1,0 +1,8 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_c125b8cd-8740-4564-8f0a-739d3f93e37f> ns1:depicts "chevron"@en,
+        "circle with arcs and circle at center"@en,
+        "medallion"@en,
+        "square with circle"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
+

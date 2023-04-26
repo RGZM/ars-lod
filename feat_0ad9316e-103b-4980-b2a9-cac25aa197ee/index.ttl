@@ -1,0 +1,7 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_0ad9316e-103b-4980-b2a9-cac25aa197ee> ns1:depicts "Abraham"@en,
+        "knife"@en,
+        "short belted tunic"@en,
+        "tunic"@en .
+

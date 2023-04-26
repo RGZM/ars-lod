@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_777aa1e1-8501-43a9-8398-fc752e3ed98d> ns1:depicts "stool backstool"@en,
+        "woman"@en .
+

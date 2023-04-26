@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_a789b308-0588-40d4-b32f-f97193415dd5> ns1:depicts "human"@en .
+

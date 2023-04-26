@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_81eab972-4a8b-48eb-95a6-ab1755a2fd8e> ns1:depicts "chariot"@en,
+        "charioteer"@en,
+        "horses"@en .
+

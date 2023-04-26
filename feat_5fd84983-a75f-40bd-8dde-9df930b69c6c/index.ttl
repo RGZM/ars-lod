@@ -1,0 +1,5 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_5fd84983-a75f-40bd-8dde-9df930b69c6c> ns1:depicts "circles"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
+

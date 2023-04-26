@@ -1,0 +1,9 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_81be8203-3b76-486d-b0ec-657237ef4bcc> ns1:depicts "Christ"@en,
+        "long short-sleeved tunic"@en,
+        "man"@en,
+        "pallium"@en,
+        "tunic"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_ae050f5b-ece5-4fa2-a9a7-ea389cf4062f> .
+

@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_dc0c3970-aef9-4bcf-b440-535e0bcc2b2d> ns1:depicts "Isaac"@en .
+

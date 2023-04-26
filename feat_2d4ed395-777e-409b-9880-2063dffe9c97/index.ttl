@@ -1,0 +1,6 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_2d4ed395-777e-409b-9880-2063dffe9c97> ns1:depicts "human head"@en,
+        "thyrsos"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_31803c57-9e7a-4bd8-b600-8ae3c43c3505> .
+

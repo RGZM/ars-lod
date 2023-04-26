@@ -1,0 +1,4 @@
+@prefix ns1: <http://archaeology.link/ontology#> .
+
+<http://data.archaeology.link/data/ars/feat_832419e6-12ef-4ac4-990e-2a0d2e881d25> ns1:depicts "shrub"@en .
+
