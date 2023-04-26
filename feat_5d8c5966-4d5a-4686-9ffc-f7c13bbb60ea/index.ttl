@@ -1,8 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_5d8c5966-4d5a-4686-9ffc-f7c13bbb60ea> ns1:depicts "man"@en,
-        "phrygian cap"@en,
-        "ram"@en,
-        "shepherd"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_eb6fbe3c-2cd5-48fa-88ab-35b1e01bbbda> .
-

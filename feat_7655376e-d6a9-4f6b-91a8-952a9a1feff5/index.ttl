@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_7655376e-d6a9-4f6b-91a8-952a9a1feff5> ns1:depicts "column"@en .
-

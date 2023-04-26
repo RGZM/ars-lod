@@ -1,7 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_0686dca5-4614-418f-99c3-e167c3bad172> ns1:depicts "Jonah"@en,
-        "man"@en,
-        "sea-monster"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_a7473586-d3c7-4012-9df5-7e1a30f0d4fc> .
-

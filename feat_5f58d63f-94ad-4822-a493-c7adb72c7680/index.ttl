@@ -1,6 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_5f58d63f-94ad-4822-a493-c7adb72c7680> ns1:depicts "erot left"@en,
-        "erot right"@en,
-        "ship"@en .
-

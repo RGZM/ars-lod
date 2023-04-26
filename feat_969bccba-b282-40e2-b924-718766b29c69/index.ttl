@@ -1,7 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_969bccba-b282-40e2-b924-718766b29c69> ns1:depicts "circle with arcs and circle at center"@en,
-        "circle with dot-fringes and cross"@en,
-        "medallions"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> .
-

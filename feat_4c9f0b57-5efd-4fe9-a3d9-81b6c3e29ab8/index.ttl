@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_4c9f0b57-5efd-4fe9-a3d9-81b6c3e29ab8> ns1:depicts "leaf-spray"@en .
-

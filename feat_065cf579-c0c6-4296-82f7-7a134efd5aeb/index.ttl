@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_065cf579-c0c6-4296-82f7-7a134efd5aeb> ns1:depicts "medallion"@en .
-

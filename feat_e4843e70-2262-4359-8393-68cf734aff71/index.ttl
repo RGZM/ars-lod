@@ -1,5 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_e4843e70-2262-4359-8393-68cf734aff71> ns1:depicts "palm-branch"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_522a11e5-ff73-475a-8dbf-cb5ba6db2faa> .
-
