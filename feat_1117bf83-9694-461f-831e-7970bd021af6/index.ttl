@@ -1,5 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_1117bf83-9694-461f-831e-7970bd021af6> ns1:depicts "dot fringes"@en,
-        "ornament"@en .
-

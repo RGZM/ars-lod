@@ -1,7 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_3730bf30-ad94-48b1-a0f6-ac3c247e01c9> ns1:depicts "man"@en,
-        "sceptre"@en,
-        "toga"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_2e8ee0be-9e68-4aef-bcbe-9e391b40bc4c> .
-

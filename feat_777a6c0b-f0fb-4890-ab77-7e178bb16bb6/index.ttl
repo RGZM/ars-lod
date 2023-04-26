@@ -1,5 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_777a6c0b-f0fb-4890-ab77-7e178bb16bb6> ns1:depicts "Oceanus"@en,
-        "mask"@en .
-

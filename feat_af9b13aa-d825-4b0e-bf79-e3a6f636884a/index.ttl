@@ -1,7 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_af9b13aa-d825-4b0e-bf79-e3a6f636884a> ns1:depicts "Peter"@en,
-        "man"@en,
-        "pallium"@en ;
-    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_8ce19702-e88e-43b4-af6c-bded46aaa879> .
-

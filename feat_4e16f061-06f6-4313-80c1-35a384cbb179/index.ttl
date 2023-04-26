@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_4e16f061-06f6-4313-80c1-35a384cbb179> ns1:depicts "legs"@en .
-

@@ -1,4 +1,0 @@
-@prefix ns1: <http://archaeology.link/ontology#> .
-
-<http://data.archaeology.link/data/ars/feat_eb73897a-b2df-4100-ad56-cb8843ba2534> ns1:depicts "angel"@en .
-
