@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_6174e215-2419-4b5b-8238-34a60dc9be24> a ns3:InformationCarrier ;
+    rdfs:label "bowl with lions and trees"@en ;
+    ns2:instanceOf ns3:InformationCarrier ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031419> ;
+    ns3:arachneModelID <http://arachne.dainst.org/entity/7031420> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_32c35707-b69e-4787-8556-495a99f21563>,
+        <http://data.archaeology.link/data/ars/feat_55bc48b9-8052-42a3-b76c-290cde0978b6>,
+        <http://data.archaeology.link/data/ars/feat_9b855350-d198-4d5f-825b-e7b00756f2d3>,
+        <http://data.archaeology.link/data/ars/feat_a25bde32-d6c0-468d-ab5d-fd7be18f92b2> ;
+    ns3:hasConditionString "reconstructed"@en ;
+    ns3:hasImage <https://zenodo.org/record/5645180/files/6174e215-2419-4b5b-8238-34a60dc9be24.jpg> ;
+    ns3:hasType ns3:ARS_Object ;
+    ns3:inventoryNumber "O.41401 (RGZM)" ;
+    ns3:madeByString "potter wheel"@en ;
+    ns3:madeOfString "clay"@en ;
+    ns3:number 1 ;
+    ns3:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    ns3:representedByString "bowl"@en ;
+    ns3:timeinterval "Late Antiquity / 310/320-430/450 AD" ;
+    dc:identifier "6174e215-2419-4b5b-8238-34a60dc9be24" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_6174e215-2419-4b5b-8238-34a60dc9be24> .
+
