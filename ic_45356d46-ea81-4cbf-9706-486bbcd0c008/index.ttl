@@ -1,0 +1,33 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_45356d46-ea81-4cbf-9706-486bbcd0c008> a ns2:InformationCarrier ;
+    rdfs:label "jug with Lazarus"@en ;
+    ns1:instanceOf ns2:InformationCarrier ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031633> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031634> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_39a339c4-ee4e-473a-9b72-af5544fb1de0>,
+        <http://data.archaeology.link/data/ars/feat_43e9357c-1391-47c1-9040-59ba93957a47>,
+        <http://data.archaeology.link/data/ars/feat_8a44d553-a70f-46e0-84ec-faae1e1806c4>,
+        <http://data.archaeology.link/data/ars/feat_91963863-5fe7-4210-862b-10573b73604b>,
+        <http://data.archaeology.link/data/ars/feat_95d290f5-9997-4dde-8826-4986c7b3aecf>,
+        <http://data.archaeology.link/data/ars/feat_9666bcf0-6efa-436e-b60a-496ead36d221>,
+        <http://data.archaeology.link/data/ars/feat_b22f7fdd-cee1-4078-93f6-b114822d37b2>,
+        <http://data.archaeology.link/data/ars/feat_efe71334-fdb3-4996-ad7d-f538ec888621> ;
+    ns2:hasConditionString "complete"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/45356d46-ea81-4cbf-9706-486bbcd0c008.jpg> ;
+    ns2:hasType ns2:ARS_Object ;
+    ns2:inventoryNumber "O.41215 (RGZM)" ;
+    ns2:madeByString "nan"@en ;
+    ns2:madeOfString "clay"@en ;
+    ns2:number 1 ;
+    ns2:representedByString "jug"@en ;
+    dc:identifier "45356d46-ea81-4cbf-9706-486bbcd0c008" ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_45356d46-ea81-4cbf-9706-486bbcd0c008> .
+
