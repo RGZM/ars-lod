@@ -1,0 +1,20 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ars/feat_97a1946e-2e6d-43fd-8456-eefc51926d83> a ns2:Feature ;
+    rdfs:label "sitting man" ;
+    ns2:depicts "Jonah"@en,
+        "man"@en ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_d7595703-1c2d-4f56-9bb9-04991f9583ef> ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/97a1946e-2e6d-43fd-8456-eefc51926d83.png> ;
+    ns2:hasType ns2:FeatureType_Mould ;
+    ns2:selectedArea <http://data.archaeology.link/data/ars/feat_97a1946e-2e6d-43fd-8456-eefc51926d83_geom> ;
+    dc:identifier "97a1946e-2e6d-43fd-8456-eefc51926d83" ;
+    geo:hasGeometry <http://data.archaeology.link/data/ars/feat_97a1946e-2e6d-43fd-8456-eefc51926d83_geom> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_97a1946e-2e6d-43fd-8456-eefc51926d83> .
+

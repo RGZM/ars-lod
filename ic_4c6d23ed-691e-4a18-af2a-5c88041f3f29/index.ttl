@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://academic-meta-tool.xyz/vocab#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_4c6d23ed-691e-4a18-af2a-5c88041f3f29> a ns2:InformationCarrier ;
+    rdfs:label "bowl with dolphin and fishes"@en ;
+    ns3:instanceOf ns2:InformationCarrier ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031395> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031396> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_2f0e6c40-8463-44b1-9464-ea8411fc793e>,
+        <http://data.archaeology.link/data/ars/feat_807d56d8-2476-4a54-9e68-b1dbed3f7eaa>,
+        <http://data.archaeology.link/data/ars/feat_8e09426b-c109-4719-9585-6711cd1ad32e>,
+        <http://data.archaeology.link/data/ars/feat_9fbcfede-37f2-4d55-a735-f9d1bba160e5> ;
+    ns2:hasConditionString "reconstructed"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/4c6d23ed-691e-4a18-af2a-5c88041f3f29.jpg> ;
+    ns2:hasType ns2:ARS_Object ;
+    ns2:inventoryNumber "O.39808 (RGZM)" ;
+    ns2:madeByString "potter wheel"@en ;
+    ns2:madeOfString "clay"@en ;
+    ns2:number 1 ;
+    ns2:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    ns2:representedByString "bowl"@en ;
+    ns2:timeinterval "Late Antiquity / 310/320-430/450 AD" ;
+    dc:identifier "4c6d23ed-691e-4a18-af2a-5c88041f3f29" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_4c6d23ed-691e-4a18-af2a-5c88041f3f29> .
+
