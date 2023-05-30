@@ -1,0 +1,18 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ars/feat_6b8313d1-82f3-41b7-a48d-0f0d927c040c> a ns2:Feature ;
+    rdfs:label "blossom 3 (group 1)" ;
+    ns2:depicts "blossom"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/6b8313d1-82f3-41b7-a48d-0f0d927c040c.png> ;
+    ns2:hasType ns2:FeatureType_AppliqueNegative ;
+    ns2:selectedArea <http://data.archaeology.link/data/ars/feat_6b8313d1-82f3-41b7-a48d-0f0d927c040c_geom> ;
+    dc:identifier "6b8313d1-82f3-41b7-a48d-0f0d927c040c" ;
+    geo:hasGeometry <http://data.archaeology.link/data/ars/feat_6b8313d1-82f3-41b7-a48d-0f0d927c040c_geom> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_6b8313d1-82f3-41b7-a48d-0f0d927c040c> .
+
