@@ -1,0 +1,30 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_e7782672-bfa6-459f-b8f5-5c32be81f8ab> a ns3:InformationCarrier ;
+    rdfs:label "rectangular dish with animal hunt"@en ;
+    ns2:instanceOf ns3:InformationCarrier ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031543> ;
+    ns3:arachneModelID <http://arachne.dainst.org/entity/7031544> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_8bf345fa-9e22-4dad-9edc-4a9e2aee9120>,
+        <http://data.archaeology.link/data/ars/feat_aef47ded-e34b-49b2-a0c2-a8983152114b>,
+        <http://data.archaeology.link/data/ars/feat_b29f3627-fa17-4441-9c0a-0a2a275fecdc> ;
+    ns3:hasConditionString "fragmented"@en ;
+    ns3:hasImage <https://zenodo.org/record/5645180/files/e7782672-bfa6-459f-b8f5-5c32be81f8ab.jpg> ;
+    ns3:hasType ns3:ARS_Object ;
+    ns3:inventoryNumber "O.41406 (RGZM)" ;
+    ns3:madeByString "mould made"@en ;
+    ns3:madeOfString "clay"@en ;
+    ns3:number 1 ;
+    ns3:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000019> ;
+    ns3:representedByString "rectangular dish"@en ;
+    ns3:timeinterval "Late Antiquity / 350/355 - 450/475 AD" ;
+    dc:identifier "e7782672-bfa6-459f-b8f5-5c32be81f8ab" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_e7782672-bfa6-459f-b8f5-5c32be81f8ab> .
+

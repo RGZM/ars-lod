@@ -1,0 +1,26 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_cbe835e3-0a5c-4e83-a114-39f7ddbc44a7> a ns3:InformationCarrier ;
+    rdfs:label "rectangular dish fragment"@en ;
+    ns2:instanceOf ns3:InformationCarrier ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031651> ;
+    ns3:arachneModelID <http://arachne.dainst.org/entity/7031652> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_c0af71fa-b11c-45a8-9827-1670bc9bbd71> ;
+    ns3:hasConditionString "fragmented"@en ;
+    ns3:hasImage <https://zenodo.org/record/5645180/files/cbe835e3-0a5c-4e83-a114-39f7ddbc44a7.jpg> ;
+    ns3:hasType ns3:ARS_Object ;
+    ns3:inventoryNumber "O.41410 (RGZM)" ;
+    ns3:madeByString "nan"@en ;
+    ns3:madeOfString "clay"@en ;
+    ns3:number 1 ;
+    ns3:representedByString "rectangular dish"@en ;
+    dc:identifier "cbe835e3-0a5c-4e83-a114-39f7ddbc44a7" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_cbe835e3-0a5c-4e83-a114-39f7ddbc44a7> .
+
