@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_5531692d-df51-407f-abf5-3d206d2be3a2> a ns2:InformationCarrier ;
+    rdfs:label "dish with boat and hybrids"@en ;
+    ns1:instanceOf ns2:InformationCarrier ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031299> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031300> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_74c53df3-2d7e-4991-901a-7848c7c54191>,
+        <http://data.archaeology.link/data/ars/feat_88e5a3c3-9e0e-411c-a63b-fa7eceff1383>,
+        <http://data.archaeology.link/data/ars/feat_9f6a2b8c-2417-4e55-bd6c-c29055e23465>,
+        <http://data.archaeology.link/data/ars/feat_c647e6d6-97f7-45c1-93cf-f6abbd4328b0> ;
+    ns2:hasConditionString "fragmented"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/5531692d-df51-407f-abf5-3d206d2be3a2.jpg> ;
+    ns2:hasType ns2:ARS_Object ;
+    ns2:inventoryNumber "O.40534 (RGZM)" ;
+    ns2:madeByString "potter wheel"@en ;
+    ns2:madeOfString "clay"@en ;
+    ns2:number 1 ;
+    ns2:representedBy <http://data.archaeology.link/data/ars/pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7> ;
+    ns2:representedByString "dish"@en ;
+    ns2:timeinterval "Late Antiquity / mid-late 4. century AD" ;
+    dc:identifier "5531692d-df51-407f-abf5-3d206d2be3a2" ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_5531692d-df51-407f-abf5-3d206d2be3a2> .
+
