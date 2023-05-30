@@ -1,0 +1,29 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad> a ns3:InformationCarrier ;
+    rdfs:label "bowl with woman and erot"@en ;
+    ns1:instanceOf ns3:InformationCarrier ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031275> ;
+    ns3:arachneModelID <http://arachne.dainst.org/entity/7031276> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_16a58651-e322-4328-947c-8a49586bdc67>,
+        <http://data.archaeology.link/data/ars/feat_eb239511-3bac-4bdf-8389-f6bc9d96fc5b> ;
+    ns3:hasConditionString "fragmented"@en ;
+    ns3:hasImage <https://zenodo.org/record/5645180/files/a9ddd6b3-4983-4578-89b3-daf62c5f4bad.jpg> ;
+    ns3:hasType ns3:ARS_Object ;
+    ns3:inventoryNumber "O.40791 (RGZM)" ;
+    ns3:madeByString "potter wheel"@en ;
+    ns3:madeOfString "clay"@en ;
+    ns3:number 1 ;
+    ns3:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    ns3:representedByString "bowl"@en ;
+    ns3:timeinterval "Late Antiquity / 310/320-430/450 AD" ;
+    dc:identifier "a9ddd6b3-4983-4578-89b3-daf62c5f4bad" ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_a9ddd6b3-4983-4578-89b3-daf62c5f4bad> .
+
