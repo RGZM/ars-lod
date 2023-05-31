@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://academic-meta-tool.xyz/vocab#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_b791ab03-d723-448e-ae84-06090c585cbc> a ns2:InformationCarrier ;
+    rdfs:label "bowl with Good Shepherd"@en ;
+    ns3:instanceOf ns2:InformationCarrier ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031431> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031432> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_2e38492b-4b3a-4c90-a659-e7cab9b84c63>,
+        <http://data.archaeology.link/data/ars/feat_79ac9100-805a-45ab-8eeb-c209f8043066>,
+        <http://data.archaeology.link/data/ars/feat_7ceec624-5540-4502-b18a-a5319b8ccce4>,
+        <http://data.archaeology.link/data/ars/feat_d37288f5-294c-4d72-a3d7-4385f268d36c> ;
+    ns2:hasConditionString "reconstructed"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/b791ab03-d723-448e-ae84-06090c585cbc.jpg> ;
+    ns2:hasType ns2:ARS_Object ;
+    ns2:inventoryNumber "O.39447 (RGZM)" ;
+    ns2:madeByString "potter wheel"@en ;
+    ns2:madeOfString "clay"@en ;
+    ns2:number 1 ;
+    ns2:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    ns2:representedByString "bowl"@en ;
+    ns2:timeinterval "Late Antiquity / 310/320-430/450 AD" ;
+    dc:identifier "b791ab03-d723-448e-ae84-06090c585cbc" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_b791ab03-d723-448e-ae84-06090c585cbc> .
+
