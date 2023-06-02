@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_641865f7-7f87-462e-8bfa-f744846657d2> a ns3:InformationCarrier ;
+    rdfs:label "mould arches and wreath"@en ;
+    ns2:instanceOf ns3:InformationCarrier ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031721> ;
+    ns3:arachneModelID <http://arachne.dainst.org/entity/7031722> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_053de06b-8d79-4110-bf62-b2632dad6b39>,
+        <http://data.archaeology.link/data/ars/feat_15203be5-c24c-4e51-b9ee-f314b85b8e39>,
+        <http://data.archaeology.link/data/ars/feat_2ca11965-ab7e-4847-8068-07e0a585d994>,
+        <http://data.archaeology.link/data/ars/feat_57765d34-f0cc-4866-8400-be610bbe24db>,
+        <http://data.archaeology.link/data/ars/feat_9c06a6b9-a248-4823-8897-0b15cb85a757>,
+        <http://data.archaeology.link/data/ars/feat_ce65e7fc-61bf-4d84-b0ca-c0322ccba972>,
+        <http://data.archaeology.link/data/ars/feat_e5dec80b-20d5-46c9-abcd-547a42402277> ;
+    ns3:hasConditionString "nan"@en ;
+    ns3:hasImage <https://zenodo.org/record/5645180/files/641865f7-7f87-462e-8bfa-f744846657d2.jpg> ;
+    ns3:hasType ns3:Manufacturing_Object ;
+    ns3:inventoryNumber "O.41370 (RGZM)" ;
+    ns3:madeByString "nan"@en ;
+    ns3:madeOfString "plaster"@en ;
+    ns3:number 1 ;
+    ns3:representedByString "mould"@en ;
+    dc:identifier "641865f7-7f87-462e-8bfa-f744846657d2" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_641865f7-7f87-462e-8bfa-f744846657d2> .
+

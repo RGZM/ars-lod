@@ -1,0 +1,29 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_91ac60d1-a1c4-4582-92dc-9830eaea101c> a ns3:InformationCarrier ;
+    rdfs:label "mould Achilles"@en ;
+    ns2:instanceOf ns3:InformationCarrier ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031719> ;
+    ns3:arachneModelID <http://arachne.dainst.org/entity/7031720> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_9b467a95-c195-4644-a3d6-b8ba7693c0ea>,
+        <http://data.archaeology.link/data/ars/feat_b20c67fa-9b82-495c-aa3e-09a68ce6a167>,
+        <http://data.archaeology.link/data/ars/feat_b852e3bb-15a9-4e82-b43b-49193095c54c>,
+        <http://data.archaeology.link/data/ars/feat_da18ee34-0a65-4218-b068-55d3239dec9e> ;
+    ns3:hasConditionString "nan"@en ;
+    ns3:hasImage <https://zenodo.org/record/5645180/files/91ac60d1-a1c4-4582-92dc-9830eaea101c.jpg> ;
+    ns3:hasType ns3:Manufacturing_Object ;
+    ns3:inventoryNumber "O.39781 (RGZM)" ;
+    ns3:madeByString "nan"@en ;
+    ns3:madeOfString "plaster"@en ;
+    ns3:number 1 ;
+    ns3:representedByString "mould"@en ;
+    dc:identifier "91ac60d1-a1c4-4582-92dc-9830eaea101c" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_91ac60d1-a1c4-4582-92dc-9830eaea101c> .
+
