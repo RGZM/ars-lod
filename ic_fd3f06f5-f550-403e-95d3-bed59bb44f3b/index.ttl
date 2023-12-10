@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_fd3f06f5-f550-403e-95d3-bed59bb44f3b> a ns3:InformationCarrier,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with quadriga"@en ;
+    ns1:instanceOf ns3:InformationCarrier ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031491> ;
+    ns3:arachneModelID <http://arachne.dainst.org/entity/7031492> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_37cc9371-d803-4bda-94e8-09ddab47aa7e>,
+        <http://data.archaeology.link/data/ars/feat_518453c0-a44b-4153-9155-cdd05eed0b83> ;
+    ns3:hasConditionString "reconstructed"@en ;
+    ns3:hasImage <https://zenodo.org/record/5645180/files/fd3f06f5-f550-403e-95d3-bed59bb44f3b.jpg> ;
+    ns3:hasType ns3:ARS_Object ;
+    ns3:inventoryNumber "O.39581 (RGZM)" ;
+    ns3:madeByString "potter wheel"@en ;
+    ns3:madeOfString "clay"@en ;
+    ns3:number 1 ;
+    ns3:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    ns3:representedByString "bowl"@en ;
+    ns3:timeinterval "Late Antiquity / 310/320-430/450 AD" ;
+    dc:identifier "fd3f06f5-f550-403e-95d3-bed59bb44f3b" ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_fd3f06f5-f550-403e-95d3-bed59bb44f3b> .
+
