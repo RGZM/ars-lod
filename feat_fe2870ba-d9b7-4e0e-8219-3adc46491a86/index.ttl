@@ -1,0 +1,25 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ars/feat_fe2870ba-d9b7-4e0e-8219-3adc46491a86> a ns2:Feature,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "man in treehouse" ;
+    ns2:depicts "flute"@en,
+        "man"@en,
+        "tree house"@en ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_bc26b20f-514a-41a5-9f0f-dea0fcb8f41d>,
+        <http://data.archaeology.link/data/ars/ir_db76adaf-12f5-48e2-843f-b3f358820b24> ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/fe2870ba-d9b7-4e0e-8219-3adc46491a86.png> ;
+    ns2:hasType ns2:FeatureType_Applique ;
+    ns2:madeByString "applied decorated"@en ;
+    ns2:selectedArea <http://data.archaeology.link/data/ars/feat_fe2870ba-d9b7-4e0e-8219-3adc46491a86_geom> ;
+    dc:identifier "fe2870ba-d9b7-4e0e-8219-3adc46491a86" ;
+    geo:hasGeometry <http://data.archaeology.link/data/ars/feat_fe2870ba-d9b7-4e0e-8219-3adc46491a86_geom> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_fe2870ba-d9b7-4e0e-8219-3adc46491a86> .
+
