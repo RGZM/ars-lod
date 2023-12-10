@@ -1,0 +1,29 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://academic-meta-tool.xyz/vocab#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_e2909265-0a83-4c44-8142-6dacd7d7e542> a ns2:InformationCarrier,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "stamp tree"@en ;
+    ns3:instanceOf ns2:InformationCarrier ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031749> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031750> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_3781fe14-0c7c-47eb-a3cf-7a8f0240ce2a>,
+        <http://data.archaeology.link/data/ars/feat_71fee057-0fd7-4a94-9e87-6701f5e727ea> ;
+    ns2:hasConditionString "nan"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/e2909265-0a83-4c44-8142-6dacd7d7e542.jpg> ;
+    ns2:hasType ns2:Manufacturing_Object ;
+    ns2:inventoryNumber "O.41392 (RGZM)" ;
+    ns2:madeByString "nan"@en ;
+    ns2:madeOfString "clay"@en ;
+    ns2:number 1 ;
+    ns2:representedByString "stamp "@en ;
+    dc:identifier "e2909265-0a83-4c44-8142-6dacd7d7e542" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_e2909265-0a83-4c44-8142-6dacd7d7e542> .
+
