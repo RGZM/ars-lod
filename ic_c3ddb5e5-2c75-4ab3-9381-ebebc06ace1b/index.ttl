@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_c3ddb5e5-2c75-4ab3-9381-ebebc06ace1b> a ns3:InformationCarrier,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with Hercules and Victoria"@en ;
+    ns2:instanceOf ns3:InformationCarrier ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031477> ;
+    ns3:arachneModelID <http://arachne.dainst.org/entity/7031478> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_d22583ae-9785-42c2-ac81-d9220c0e6f8a>,
+        <http://data.archaeology.link/data/ars/feat_dd4e0950-8d23-4786-8a8f-0a4efda83595> ;
+    ns3:hasConditionString "reconstructed"@en ;
+    ns3:hasImage <https://zenodo.org/record/5645180/files/c3ddb5e5-2c75-4ab3-9381-ebebc06ace1b.jpg> ;
+    ns3:hasType ns3:ARS_Object ;
+    ns3:inventoryNumber "O.40718 (RGZM)" ;
+    ns3:madeByString "potter wheel"@en ;
+    ns3:madeOfString "clay"@en ;
+    ns3:number 1 ;
+    ns3:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    ns3:representedByString "bowl"@en ;
+    ns3:timeinterval "Late Antiquity / 310/320-430/450 AD" ;
+    dc:identifier "c3ddb5e5-2c75-4ab3-9381-ebebc06ace1b" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_c3ddb5e5-2c75-4ab3-9381-ebebc06ace1b> .
+

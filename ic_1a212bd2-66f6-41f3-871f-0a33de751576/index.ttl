@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://academic-meta-tool.xyz/vocab#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_1a212bd2-66f6-41f3-871f-0a33de751576> a ns2:InformationCarrier,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with martyr and bear"@en ;
+    ns3:instanceOf ns2:InformationCarrier ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031183> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031184> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_b25260fa-744d-4b4d-baad-b4c34c9c3b7d>,
+        <http://data.archaeology.link/data/ars/feat_fbb210fd-6c97-41b5-bf81-507fb92c8ad6> ;
+    ns2:hasConditionString "complete"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/1a212bd2-66f6-41f3-871f-0a33de751576.jpg> ;
+    ns2:hasType ns2:ARS_Object ;
+    ns2:inventoryNumber "O.41911 (RGZM)" ;
+    ns2:madeByString "potter wheel"@en ;
+    ns2:madeOfString "clay"@en ;
+    ns2:number 1 ;
+    ns2:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    ns2:representedByString "bowl"@en ;
+    ns2:timeinterval "Late Antiquity / 310/320-430/450 AD" ;
+    dc:identifier "1a212bd2-66f6-41f3-871f-0a33de751576" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_1a212bd2-66f6-41f3-871f-0a33de751576> .
+
