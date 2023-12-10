@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="de" class="workbenchpagewithtitle"><head><link href="http://gmpg.org/xfn/11" rel="profile">
+<meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css">
+<link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/slate/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js"></script>
+</head>
+<body class="bodystyle"><header role="banner" class="headerstyle">
+    <nav class="navbarstyle"><div class="container-fluid"><div class="row"><div class="col-md-3"><div class="navbar-header"><h1>Image Grid View</h1>
+<div class="container-fluid" style="height:100%">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/6.1.0/shuffle.min.js"></script>
+<script>
+var genres=[{{classes}}]
+genress=Array.from(new Set(genres))
+console.log(genress)
+</script>
+
+<style>
+.flex {
+  display:flex;
+  justify-content:flex-start;
+  flex-wrap:wrap;
+}
+
+.flex > DIV {
+  margin:2px;
+  padding:25px;
+  background:#ccc;
+  border:1px solid #bbb;
+  font-size:14pt;
+  color:#666;
+}
+ul {
+  margin:0;
+  text-align: center;
+}
+ul li {
+  list-style: none;
+}
+/*======================*/
+/* ul .shuffle-filter */
+.shuffle-filter {
+  margin: 0 auto;
+}
+.shuffle-filter li {
+  display: inline-block;
+  padding: 10px;
+  cursor: pointer;
+}
+.selected {
+  text-decoration: underline;
+}
+
+/*======================*/
+/* ul shuffle-container*/
+.shuffle-container {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  background: #ddd;
+}
+.shuffle-container li span {
+  padding: 30px;
+  margin: 20px;
+  background: #eee;
+  display: inline-block;
+}
+
+.aspect {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%;
+  overflow: hidden;
+}
+
+.aspect__inner {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.ostyle{
+  background-color:orange;font-weight:bold;border: 1px solid black;border-radius: 25px;display: inline-block;line-height: 1em !important;padding:0
+}
+
+.goldstyle {background-color:gold;font-weight:bold;border: 2px solid black;border-radius: 25px;display: inline-block;line-height: 1em !important;padding:0}
+
+.silverstyle {background-color:silver;font-weight:bold;border: 2px solid black;border-radius: 25px;display: inline-block;line-height: 1em !important;padding:0}
+
+.bronzestyle {background-color:#FF5733;font-weight:bold;border: 2px solid black;border-radius: 25px;display: inline-block;line-height: 1em !important;padding:0}
+
+.greenstyle {background-color:green;font-weight:bold;border: 2px solid black;border-radius: 25px;display: inline-block;line-height: 1em !important;padding:0}
+
+.imgborder {width: 100%;height: 100%;border-radius: 25px;}
+
+/* Add more aspect ratios here */
+.aspect--16x9 {
+  padding-bottom: 56.25%;
+}
+</style>
+
+<div class="row">
+  <ul class="shuffle-filter" id="shuffle-categories">
+  <li class="selected" data-target="all">All</li>
+  </ul>
+  <ul class="shuffle-container">
+      <li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_1fd3f5da-8d4b-4d68-8a7e-e61963a88a14/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_ea77afcb-b013-4b9d-8dab-14d30b511adb/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_c0346f71-8ef7-4dab-a4a8-1e222e1ff17a/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_6ffc57d6-f6a2-417a-b4e1-4683c0c4723e/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_ded050c0-a1cb-4ef6-bac4-e722ae4d1000/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_a4d7e016-cc74-4400-a2a6-e1688f5f4300/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_83432cba-4b2f-4111-ad77-c0cf28e53ae4/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_aa88339c-da85-47aa-af08-fe6dd093e468/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_07f3341c-e107-4dbc-9d57-680fa00a2bcf/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_debeac24-ebc3-430d-9317-0b508e83f15c/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_c30c01b2-9c7e-45ec-833b-f734e1000018/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_fbfa4b8d-1ef3-4d7b-b6a4-fc86fc6e721a/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_c30c01b2-9c7e-45ec-833b-f734e1000017/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_f7b36c24-9a27-4b27-8b1f-5f82df341913/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_46a90c86-23e3-4ea8-abb0-11acefbfd35e/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_9db8aeba-e99c-4f7d-9145-011ef086c5e3/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_c30c01b2-9c7e-45ec-833b-f734e1000019/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_c30c01b2-9c7e-45ec-833b-f734e1000015/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_d1f8494d-cc34-428e-a303-7b750b9b7694/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_e1f70788-a3b9-40ec-9039-c5091d18f6f8/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_c30c01b2-9c7e-45ec-833b-f734e1000016/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_ad9f1037-e6d1-4ef2-9247-e26733267bc7/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li><li data-groups='["all","red",""]' style="width:25%;background-color:white;border-radius:25px;"><figure class="col-3@sm picture-item"><div class="aspect aspect--16x9"><div class="aspect__inner"><a href="https://RGZM.github.io/ars-lod"><img src="{{site.baseurl}}/assets/images/placeholder.png" loading="lazy" class="imgborder" onerror="this.onerror=null; this.src='{{site.baseurl_root}}/assets/images/placeholder.png'" alt="{{textName}}"/></a></div></div><figcaption style="color:black"><a href=https://RGZM.github.io/ars-lod/docs//iiif/mf/pf_2d8907ac-2ce5-4090-afbb-09b4b3986c06/manifest.json" style="font-weight:bold;color:black"></a></figcaption></figure></li>
+  </ul>
+<script>
+window.onload = function () {
+categories="<li class=\"selected\" data-target=\"all\">All</li>"
+console.log(genress)
+for(genre of genress){
+   categories+="<li data-target=\""+genre+"\">"+genre+"</li>"
+}
+console.log(categories)
+$('#shuffle-categories').html(categories)
+var Shuffle = window.Shuffle;
+var element = document.querySelector('.shuffle-container');
+
+var shuffleInstance = new Shuffle(element, {
+  itemSelector: 'li'
+  //sizer: 'li'
+});
+  $('.shuffle-filter li').on('click',function(e){
+    e.preventDefault();
+    $('.shuffle-filter li').removeClass('selected');
+    $(this).addClass('selected');
+    var keyword = $(this).attr('data-target');
+    shuffleInstance.filter(keyword);
+  });
+}
+</script></div></body></html>
