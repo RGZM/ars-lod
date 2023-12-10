@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ars/feat_d52398ee-00e1-410e-8aef-fba1772f5dcd> a ns2:Feature,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Venus" ;
+    ns2:depicts "Venus"@en,
+        "woman"@en ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_2dea40ce-7675-4a7e-98f8-0027e4b0748b>,
+        <http://data.archaeology.link/data/ars/ir_59a99782-74bd-498d-9f1a-3789da43049c> ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/d52398ee-00e1-410e-8aef-fba1772f5dcd.png> ;
+    ns2:hasType ns2:FeatureType_Applique ;
+    ns2:madeByString "applied decorated"@en ;
+    ns2:selectedArea <http://data.archaeology.link/data/ars/feat_d52398ee-00e1-410e-8aef-fba1772f5dcd_geom> ;
+    dc:identifier "d52398ee-00e1-410e-8aef-fba1772f5dcd" ;
+    geo:hasGeometry <http://data.archaeology.link/data/ars/feat_d52398ee-00e1-410e-8aef-fba1772f5dcd_geom> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_d52398ee-00e1-410e-8aef-fba1772f5dcd> .
+
