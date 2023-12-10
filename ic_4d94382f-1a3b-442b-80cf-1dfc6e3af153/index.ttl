@@ -1,0 +1,28 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_4d94382f-1a3b-442b-80cf-1dfc6e3af153> a ns3:InformationCarrier,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "mould Abraham and Isaac"@en ;
+    ns2:instanceOf ns3:InformationCarrier ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031697> ;
+    ns3:arachneModelID <http://arachne.dainst.org/entity/7031698> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_6f39aca5-9d5d-4d76-b23c-a9c844eabaee> ;
+    ns3:hasConditionString "nan"@en ;
+    ns3:hasImage <https://zenodo.org/record/5645180/files/4d94382f-1a3b-442b-80cf-1dfc6e3af153.jpg> ;
+    ns3:hasType ns3:Manufacturing_Object ;
+    ns3:inventoryNumber "O.41423 (RGZM)" ;
+    ns3:madeByString "nan"@en ;
+    ns3:madeOfString "plaster"@en ;
+    ns3:number 1 ;
+    ns3:representedByString "mould"@en ;
+    dc:identifier "4d94382f-1a3b-442b-80cf-1dfc6e3af153" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_4d94382f-1a3b-442b-80cf-1dfc6e3af153> .
+
