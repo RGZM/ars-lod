@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_4e7d9bd5-5727-4d49-807b-c70effc88dcd> a ns2:InformationCarrier,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "mould man and woman"@en ;
+    ns1:instanceOf ns2:InformationCarrier ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031711> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031712> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_056c2552-244f-4f75-bee3-1e0c3431dc08>,
+        <http://data.archaeology.link/data/ars/feat_1ec3cf1f-5412-4150-9ac1-bfd79bf341a4>,
+        <http://data.archaeology.link/data/ars/feat_2a6f230a-9ced-4dab-9b06-b1edd038126c>,
+        <http://data.archaeology.link/data/ars/feat_eeb2c72b-f6d8-4c96-a498-f9a4486ec4a6> ;
+    ns2:hasConditionString "nan"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/4e7d9bd5-5727-4d49-807b-c70effc88dcd.jpg> ;
+    ns2:hasType ns2:Manufacturing_Object ;
+    ns2:inventoryNumber "O.41420 (RGZM)" ;
+    ns2:madeByString "nan"@en ;
+    ns2:madeOfString "plaster"@en ;
+    ns2:number 1 ;
+    ns2:representedByString "mould"@en ;
+    dc:identifier "4e7d9bd5-5727-4d49-807b-c70effc88dcd" ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_4e7d9bd5-5727-4d49-807b-c70effc88dcd> .
+

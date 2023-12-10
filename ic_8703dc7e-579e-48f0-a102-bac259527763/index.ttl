@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_8703dc7e-579e-48f0-a102-bac259527763> a ns3:InformationCarrier,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with Pan"@en ;
+    ns2:instanceOf ns3:InformationCarrier ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031495> ;
+    ns3:arachneModelID <http://arachne.dainst.org/entity/7031496> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_7e66a1b3-6c9b-4679-8c79-fdb4131b8429>,
+        <http://data.archaeology.link/data/ars/feat_a05c2f04-6f54-4579-ae08-7fc86c5c5ff2>,
+        <http://data.archaeology.link/data/ars/feat_addec23f-8165-41fe-9338-381eb7abdac9> ;
+    ns3:hasConditionString "reconstructed"@en ;
+    ns3:hasImage <https://zenodo.org/record/5645180/files/8703dc7e-579e-48f0-a102-bac259527763.jpg> ;
+    ns3:hasType ns3:ARS_Object ;
+    ns3:inventoryNumber "O.39711 (RGZM)" ;
+    ns3:madeByString "potter wheel"@en ;
+    ns3:madeOfString "clay"@en ;
+    ns3:number 1 ;
+    ns3:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    ns3:representedByString "bowl"@en ;
+    ns3:timeinterval "Late Antiquity / 310/320-430/450 AD" ;
+    dc:identifier "8703dc7e-579e-48f0-a102-bac259527763" ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_8703dc7e-579e-48f0-a102-bac259527763> .
+

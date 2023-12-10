@@ -1,0 +1,22 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ars/feat_18b0a452-e4d4-42f2-8cbb-b961b808d0af> a ns2:Feature,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "small fish" ;
+    ns2:depicts "fish"@en ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_53ecbeaf-5d6e-4aa3-8978-baa18138e7bb> ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/18b0a452-e4d4-42f2-8cbb-b961b808d0af.png> ;
+    ns2:hasType ns2:FeatureType_Applique ;
+    ns2:madeByString "applied decorated"@en ;
+    ns2:selectedArea <http://data.archaeology.link/data/ars/feat_18b0a452-e4d4-42f2-8cbb-b961b808d0af_geom> ;
+    dc:identifier "18b0a452-e4d4-42f2-8cbb-b961b808d0af" ;
+    geo:hasGeometry <http://data.archaeology.link/data/ars/feat_18b0a452-e4d4-42f2-8cbb-b961b808d0af_geom> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_18b0a452-e4d4-42f2-8cbb-b961b808d0af> .
+
