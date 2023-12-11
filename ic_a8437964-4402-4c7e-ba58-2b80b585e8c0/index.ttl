@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_a8437964-4402-4c7e-ba58-2b80b585e8c0> a ns2:InformationCarrier,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with lions and Kantharos"@en ;
+    ns1:instanceOf ns2:InformationCarrier ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031135> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031136> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_31bb1c9c-f494-4383-ad9f-055a3c39e1f8>,
+        <http://data.archaeology.link/data/ars/feat_5feac1b7-0170-4e9c-8bee-4e6656dfe5e1>,
+        <http://data.archaeology.link/data/ars/feat_de5b2270-cf02-4a03-bba8-73a9f5652ba3> ;
+    ns2:hasConditionString "complete"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/a8437964-4402-4c7e-ba58-2b80b585e8c0.jpg> ;
+    ns2:hasType ns2:ARS_Object ;
+    ns2:inventoryNumber "O.40574 (RGZM)" ;
+    ns2:madeByString "potter wheel"@en ;
+    ns2:madeOfString "clay"@en ;
+    ns2:number 1 ;
+    ns2:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    ns2:representedByString "bowl"@en ;
+    ns2:timeinterval "Late Antiquity / 310/320-430/450 AD" ;
+    dc:identifier "a8437964-4402-4c7e-ba58-2b80b585e8c0" ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_a8437964-4402-4c7e-ba58-2b80b585e8c0> .
+
