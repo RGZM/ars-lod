@@ -1,0 +1,30 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://data.archaeology.link/data/ars/feat_5b757f47-2bf0-4a66-a0d5-5f7fcd826be7> a ns2:Feature,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "man and woman" ;
+    ns2:depicts "Christ"@en,
+        "man"@en,
+        "mantle"@en,
+        "short belted tunic"@en,
+        "short-sleeved belted tunic"@en,
+        "tunic"@en,
+        "woman"@en,
+        "woman with the issue of blood"@en ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_9f8c1316-ae6a-47a8-8b55-90dfb9fd0c61>,
+        <http://data.archaeology.link/data/ars/ir_fdf39293-717a-4552-93e3-ddfc0c46e90a> ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/5b757f47-2bf0-4a66-a0d5-5f7fcd826be7.png> ;
+    ns2:hasType ns2:FeatureType_Applique ;
+    ns2:madeByString "applied decorated"@en ;
+    ns2:selectedArea <http://data.archaeology.link/data/ars/feat_5b757f47-2bf0-4a66-a0d5-5f7fcd826be7_geom> ;
+    dc:identifier "5b757f47-2bf0-4a66-a0d5-5f7fcd826be7" ;
+    geo:hasGeometry <http://data.archaeology.link/data/ars/feat_5b757f47-2bf0-4a66-a0d5-5f7fcd826be7_geom> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_5b757f47-2bf0-4a66-a0d5-5f7fcd826be7> .
+
