@@ -1,0 +1,28 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_a7c625aa-bb4d-49ac-a490-98a73272c54f> a ns2:InformationCarrier,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "mould lamp"@en ;
+    ns1:instanceOf ns2:InformationCarrier ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031701> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031702> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_3a377c3f-0780-4be0-95d5-889cdb2f0ff3> ;
+    ns2:hasConditionString "nan"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/a7c625aa-bb4d-49ac-a490-98a73272c54f.jpg> ;
+    ns2:hasType ns2:Manufacturing_Object ;
+    ns2:inventoryNumber "O.41414 (RGZM)" ;
+    ns2:madeByString "nan"@en ;
+    ns2:madeOfString "plaster"@en ;
+    ns2:number 1 ;
+    ns2:representedByString "mould"@en ;
+    dc:identifier "a7c625aa-bb4d-49ac-a490-98a73272c54f" ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_a7c625aa-bb4d-49ac-a490-98a73272c54f> .
+
