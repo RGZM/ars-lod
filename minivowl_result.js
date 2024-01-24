@@ -25,13 +25,6 @@ var minivowlresult={
   {
    "source": 0,
    "target": 1,
-   "valueTo": "hasGeometry",
-   "propertyTo": "class",
-   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
-  },
-  {
-   "source": 0,
-   "target": 1,
    "valueTo": "selectedArea",
    "propertyTo": "class",
    "uriTo": "http://archaeology.link/ontology#selectedArea"
@@ -42,6 +35,13 @@ var minivowlresult={
    "valueTo": "wasGeneratedBy",
    "propertyTo": "class",
    "uriTo": "http://www.w3.org/ns/prov-o/wasGeneratedBy"
+  },
+  {
+   "source": 0,
+   "target": 1,
+   "valueTo": "hasGeometry",
+   "propertyTo": "class",
+   "uriTo": "http://www.opengis.net/ont/geosparql#hasGeometry"
   }
  ]
 }
