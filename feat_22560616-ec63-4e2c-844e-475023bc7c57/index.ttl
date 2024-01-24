@@ -1,0 +1,27 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_22560616-ec63-4e2c-844e-475023bc7c57> a ns2:Feature,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "woman 1" ;
+    ns2:depicts "long short-sleeved tunic"@en,
+        "pallium"@en,
+        "tunic"@en,
+        "woman"@en ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_ba373182-af4c-4ef4-9622-226465b5fa6d> ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/22560616-ec63-4e2c-844e-475023bc7c57.png> ;
+    ns2:hasType ns2:FeatureType_Applique ;
+    ns2:madeByString "applied decorated"@en ;
+    ns2:selectedArea <http://data.archaeology.link/data/ars/feat_22560616-ec63-4e2c-844e-475023bc7c57_geom> ;
+    dc:identifier "22560616-ec63-4e2c-844e-475023bc7c57" ;
+    void:inDataset <http://data.archaeology.link/data/ars/dataset> ;
+    geo:hasGeometry <http://data.archaeology.link/data/ars/feat_22560616-ec63-4e2c-844e-475023bc7c57_geom> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_22560616-ec63-4e2c-844e-475023bc7c57> .
+
