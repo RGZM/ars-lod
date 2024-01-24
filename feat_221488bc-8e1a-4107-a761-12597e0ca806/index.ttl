@@ -1,0 +1,27 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_221488bc-8e1a-4107-a761-12597e0ca806> a ns2:Feature,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "Oceanus mask" ;
+    ns2:depicts "Oceanus"@en,
+        "mask"@en ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_178b7f59-5cf8-42b2-8fc5-3fb979653f1a>,
+        <http://data.archaeology.link/data/ars/ir_376580fe-9768-42a8-ba1f-30b32a2644b9>,
+        <http://data.archaeology.link/data/ars/ir_59f79782-b5d7-4a76-b1ca-0193f667f15c> ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/221488bc-8e1a-4107-a761-12597e0ca806.png> ;
+    ns2:hasType ns2:FeatureType_Applique ;
+    ns2:madeByString "applied decorated"@en ;
+    ns2:selectedArea <http://data.archaeology.link/data/ars/feat_221488bc-8e1a-4107-a761-12597e0ca806_geom> ;
+    dc:identifier "221488bc-8e1a-4107-a761-12597e0ca806" ;
+    void:inDataset <http://data.archaeology.link/data/ars/dataset> ;
+    geo:hasGeometry <http://data.archaeology.link/data/ars/feat_221488bc-8e1a-4107-a761-12597e0ca806_geom> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_221488bc-8e1a-4107-a761-12597e0ca806> .
+
