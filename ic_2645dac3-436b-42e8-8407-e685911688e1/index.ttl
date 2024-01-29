@@ -1,0 +1,31 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns3: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_2645dac3-436b-42e8-8407-e685911688e1> a ns3:InformationCarrier,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "pottery tool"@en ;
+    ns2:instanceOf ns3:InformationCarrier ;
+    ns3:arachneEntityID <http://arachne.dainst.org/entity/7031764> ;
+    ns3:arachneModelID <http://arachne.dainst.org/entity/7031765> ;
+    ns3:carries <http://data.archaeology.link/data/ars/feat_0e411cbc-cbdd-4d82-a690-b684ec11c2b9>,
+        <http://data.archaeology.link/data/ars/feat_66649be8-9eee-44d0-8257-4875d2af76d1> ;
+    ns3:hasConditionString "nan"@en ;
+    ns3:hasImage <https://zenodo.org/record/5645180/files/2645dac3-436b-42e8-8407-e685911688e1.jpg> ;
+    ns3:hasType ns3:Manufacturing_Object ;
+    ns3:inventoryNumber "O.41383 (RGZM)" ;
+    ns3:madeByString "nan"@en ;
+    ns3:madeOfString "clay"@en ;
+    ns3:number 1 ;
+    ns3:representedByString "nan"@en ;
+    dc:identifier "2645dac3-436b-42e8-8407-e685911688e1" ;
+    void:inDataset <http://data.archaeology.link/data/ars/dataset> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_2645dac3-436b-42e8-8407-e685911688e1> .
+
