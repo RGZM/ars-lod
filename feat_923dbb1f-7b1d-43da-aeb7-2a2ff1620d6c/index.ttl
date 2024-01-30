@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_923dbb1f-7b1d-43da-aeb7-2a2ff1620d6c> a ns1:Feature,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "leaf 7" ;
+    ns1:depicts "palm branch"@en ;
+    ns1:depictsReference <http://data.archaeology.link/data/ars/ir_nan> ;
+    ns1:hasImage <https://zenodo.org/record/5645237/files/923dbb1f-7b1d-43da-aeb7-2a2ff1620d6c.png> ;
+    ns1:hasType ns1:FeatureType_AppliqueNegative ;
+    ns1:madeByString "stamped decorated"@en ;
+    ns1:selectedArea <http://data.archaeology.link/data/ars/feat_923dbb1f-7b1d-43da-aeb7-2a2ff1620d6c_geom> ;
+    dc:identifier "923dbb1f-7b1d-43da-aeb7-2a2ff1620d6c" ;
+    void:inDataset <http://data.archaeology.link/data/ars/dataset> ;
+    geo:hasGeometry <http://data.archaeology.link/data/ars/feat_923dbb1f-7b1d-43da-aeb7-2a2ff1620d6c_geom> ;
+    ns2:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns2:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns2:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_923dbb1f-7b1d-43da-aeb7-2a2ff1620d6c> .
+
