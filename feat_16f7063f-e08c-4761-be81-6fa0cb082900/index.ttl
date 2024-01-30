@@ -1,0 +1,24 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://data.archaeology.link/data/ars/feat_16f7063f-e08c-4761-be81-6fa0cb082900> a ns2:Feature,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "leopard" ;
+    ns2:depicts "leopard"@en ;
+    ns2:depictsReference <http://data.archaeology.link/data/ars/ir_595d1915-c5ab-46f9-b6b1-c037438638cf> ;
+    ns2:hasImage <https://zenodo.org/record/5645237/files/16f7063f-e08c-4761-be81-6fa0cb082900.png> ;
+    ns2:hasType ns2:FeatureType_Applique ;
+    ns2:madeByString "applied decorated"@en ;
+    ns2:selectedArea <http://data.archaeology.link/data/ars/feat_16f7063f-e08c-4761-be81-6fa0cb082900_geom> ;
+    dc:identifier "16f7063f-e08c-4761-be81-6fa0cb082900" ;
+    void:inDataset <http://data.archaeology.link/data/ars/dataset> ;
+    geo:hasGeometry <http://data.archaeology.link/data/ars/feat_16f7063f-e08c-4761-be81-6fa0cb082900_geom> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_feat_16f7063f-e08c-4761-be81-6fa0cb082900> .
+
