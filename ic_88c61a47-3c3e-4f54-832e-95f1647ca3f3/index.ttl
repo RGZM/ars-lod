@@ -1,0 +1,32 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://archaeology.link/ontology#> .
+@prefix ns2: <http://academic-meta-tool.xyz/vocab#> .
+@prefix ns3: <http://www.w3.org/ns/prov-o/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_88c61a47-3c3e-4f54-832e-95f1647ca3f3> a ns1:InformationCarrier,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "mould Bacchus"@en ;
+    ns2:instanceOf ns1:InformationCarrier ;
+    ns1:arachneEntityID <http://arachne.dainst.org/entity/7031743> ;
+    ns1:arachneModelID <http://arachne.dainst.org/entity/7031744> ;
+    ns1:carries <http://data.archaeology.link/data/ars/feat_001419cf-07a6-4b55-96f2-7149eecdb36f>,
+        <http://data.archaeology.link/data/ars/feat_7f730ac2-dd54-4c2c-8def-4bf53ccdf274>,
+        <http://data.archaeology.link/data/ars/feat_ac27c22a-a82c-45f3-bb36-c9442deb2249> ;
+    ns1:hasConditionString "nan"@en ;
+    ns1:hasImage <https://zenodo.org/record/5645180/files/88c61a47-3c3e-4f54-832e-95f1647ca3f3.jpg> ;
+    ns1:hasType ns1:Manufacturing_Object ;
+    ns1:inventoryNumber "O.41421 (RGZM)" ;
+    ns1:madeByString "nan"@en ;
+    ns1:madeOfString "plaster"@en ;
+    ns1:number 1 ;
+    ns1:representedByString "mould"@en ;
+    dc:identifier "88c61a47-3c3e-4f54-832e-95f1647ca3f3" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns3:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns3:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns3:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_88c61a47-3c3e-4f54-832e-95f1647ca3f3> .
+
