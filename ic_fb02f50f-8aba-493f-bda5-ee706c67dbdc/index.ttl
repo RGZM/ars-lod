@@ -1,0 +1,35 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ns1: <http://www.w3.org/ns/prov-o/> .
+@prefix ns2: <http://archaeology.link/ontology#> .
+@prefix ns3: <http://academic-meta-tool.xyz/vocab#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://data.archaeology.link/data/ars/ic_fb02f50f-8aba-493f-bda5-ee706c67dbdc> a ns2:InformationCarrier,
+        <http://www.w3.org/ns/ldp#Resource>,
+        <https://www.iana.org/assignments/media-types/text/turtle#Resource> ;
+    rdfs:label "bowl with men and fiery furnace"@en ;
+    ns3:instanceOf ns2:InformationCarrier ;
+    ns2:arachneEntityID <http://arachne.dainst.org/entity/7031463> ;
+    ns2:arachneModelID <http://arachne.dainst.org/entity/7031464> ;
+    ns2:carries <http://data.archaeology.link/data/ars/feat_b35d0bc5-e319-4b75-821f-24b956b1ae9b>,
+        <http://data.archaeology.link/data/ars/feat_baa548f7-1e9a-44c1-956f-798711ec7e59>,
+        <http://data.archaeology.link/data/ars/feat_e18998a8-aaba-4a4a-ac27-659e9f6346d7>,
+        <http://data.archaeology.link/data/ars/feat_ff74a13f-55c4-4779-8dfc-b5e8f9775264> ;
+    ns2:hasConditionString "reconstructed"@en ;
+    ns2:hasImage <https://zenodo.org/record/5645180/files/fb02f50f-8aba-493f-bda5-ee706c67dbdc.jpg> ;
+    ns2:hasType ns2:ARS_Object ;
+    ns2:inventoryNumber "O.39630 (RGZM)" ;
+    ns2:madeByString "potter wheel"@en ;
+    ns2:madeOfString "clay"@en ;
+    ns2:number 1 ;
+    ns2:representedBy <http://data.archaeology.link/data/ars/pf_c30c01b2-9c7e-45ec-833b-f734e1000016> ;
+    ns2:representedByString "bowl"@en ;
+    ns2:timeinterval "Late Antiquity / 310/320-430/450 AD" ;
+    dc:identifier "fb02f50f-8aba-493f-bda5-ee706c67dbdc" ;
+    void:inDataset <http://data.archaeology.link/data/ars/ars_dataset> ;
+    ns1:wasAttributedTo <http://data.archaeology.link/data/ars/ImportPythonScript_ARS3D> ;
+    ns1:wasDerivedFrom <http://www.wikidata.org/entity/Q105268778> ;
+    ns1:wasGeneratedBy <http://data.archaeology.link/data/ars/activity_ic_fb02f50f-8aba-493f-bda5-ee706c67dbdc> .
+
